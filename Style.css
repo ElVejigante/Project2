@@ -1,0 +1,198 @@
+.btn
+{
+      background-color: rgb(241, 119, 119);
+}
+
+#tbody {
+      background-image: url('https://static.vecteezy.com/system/resources/previews/000/549/373/original/vector-abstract-background-world-map-binary-digit-texture-001.jpg');
+      background-size: cover;
+      background-attachment: fixed; 
+      background-position: fixed;
+      
+      }
+.one {
+            
+            border-width: 8px;
+            width: 200px;
+            background-color: rgb(8, 8, 8);
+            vertical-align: 100px;
+            opacity: 80%;
+            left: 10px;
+            float:left;
+            
+      }
+
+.image{
+      background-image: url('https://static0.srcdn.com/wordpress/wp-content/uploads/2021/04/Spider-Man-Mary-Jane-Comic-Art-Header.jpg');
+      
+      background-size: 20%;
+      background-repeat: no-repeat;
+ }
+
+.p1
+{
+      color: black;
+      font-weight: bold;
+      text-align: center;
+      background-color: rgb(253, 253, 253);
+}
+
+
+.navbar a:hover {
+      background-color: rgb(168, 108, 106);
+      color: rgb(243, 236, 236);
+    }
+      
+.active {
+        text-decoration: underline;
+      }
+
+.navbar a.right {
+            float: left;
+            margin-left: auto;
+          }
+
+.navbar-brand{
+           
+            padding-bottom: 5%;
+            padding-top: 5%;
+            }
+.opa
+{
+      color: rgb(14, 13, 13);
+}
+
+.colorp
+{
+    color: rgb(253, 19, 19);
+}
+
+.navbac
+{
+      background-color: rgb(250, 225, 225);
+      opacity: 70%;
+      border: 10px;
+      border-radius: 100px;
+      box-shadow: rgb(168, 108, 106);
+
+}
+
+.logo
+{
+      background-image: url('https://image.freepik.com/free-vector/abstract-circle-light-red-frame-vector-background_7233-348.jpg');
+      background-size: cover;
+      width: auto; 
+      height: 150px;
+      border-radius: 150px;
+      border-color: red;
+      opacity: 80px;
+}
+
+.sapper
+{
+   height: auto;
+   min-height: 580px;
+}
+
+.masthead
+{
+      position: relative;
+      height: 100%;
+      background: #098a94;
+      opacity: 89px;
+}
+
+.shape
+{
+      width: calc(50% + 182px);
+      min-height: 800px;
+}
+
+.background-image{
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 300px;
+      overflow: hidden;
+      opacity: 40px;
+}
+.masthead .background-image {
+      position:relative;
+      top:0;
+      left:0;
+      width:100%;
+      height:300px;
+      overflow:hidden
+     }
+@media (min-width:768px) {
+.masthead .background-image {
+       position:absolute;
+       height:100%;
+    
+      }
+     }
+
+.masthead .background-image img {
+      width:100%;
+      height:100%;
+      -o-object-fit:cover;
+      object-fit:cover;
+      -o-object-position:center top;
+      object-position:center top
+     }
+@media (min-width:768px) {
+.masthead .background-image img {
+       -o-object-position:center;
+       object-position:center
+      }
+     }
+.masthead .background-image .shape {
+      position:absolute;
+      top:0;
+      left:0;
+      width:397px;
+      height:inherit
+     }
+.wp-block-columns.alignwide {
+      width: calc(100% + 40px);
+      margin-left: -20px;}
+
+.wp-block-group__inner-container
+ {
+      padding: 0 20px;
+      align-content:right;
+      margin-left: 100px;
+ }    
+
+.layer
+{
+     color:black; 
+     background-origin: padding-box;
+     font-size: 50px;
+     background-color: aqua;
+}
+
+.h1{
+      font-size: 38px;
+      line-height: 1.16;
+      letter-spacing: -.7px;
+}
+.h2{
+      font-size: 38px;
+      line-height: 1.16;
+      letter-spacing: -.7px;
+      text-align: left;
+      font-size: 50px;
+}
+
+.h3{
+      text-align: left;
+      font-size: 50pc
+}
+
+  
+#map,
+body,
+html {
+  height: 100%;
+}

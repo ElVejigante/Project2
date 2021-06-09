@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8">
+    <title>Super Heros</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+ 
+   <link rel="stylesheet" href="https://bootswatch.com/4/lux/bootstrap.min.css">
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+   <link rel=”stylesheet” href=”https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity=”sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T” crossorigin=”anonymous”>
+
+   <link rel="stylesheet" href="assets/css/visual.css">
+
+</head>
+
+<body>
+  <nav id="navbar" class="nav navbar navbar-expand-xl navbar-dark bg-primary image" style="background-color: #cef1fc;">
+    <div class="container">
+      
+      <a class="navbar-brand logo" href="index.html"><p class="colorp">IITEM</p></a>
+     
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation" style="background-color: #e3f2fd;">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <p>Taking the world of matchmaking to another relam. </p>
+      <div class="collapse navbar-collapse" id="navbarToggleExternalContent">
+        <ul class="navbar-nav mr-auto navbac">
+        </li>
+        <li class="nav-item">
+          <a class="nav-link " href="about.html"><p class="colorp">About</p></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link " href="visualization.html"><p class="colorp">Hero Characteristics</p></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link " href="table.html"><p class="colorp">Find Your Hero</p></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="map.html"><p class="colorp">Location</p></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="100heros.html"><p class="colorp">Top 100 Co-Occurences</p></a>
+        </li>
+        </ul>
+      </div>
+    </div>
+    
+  </nav>
+
+</head>
+  
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script>
+<script src="https://d3js.org/d3.v4.js"></script>          
+<script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+<script  src=https://cdn.jsdelivr.net/npm/chart.js@3.3.2/dist/chart.min.js></script>
+
+
+
+<body>
+
+  <h1>Hero Characteristics: Quick review on Height/Weight for different Hero Genders </h1>
+
+<section id ="description" style ="background-color:black;">
+
+  <div class="container" style="height:100px; padding-top: 50px;">
+    
+     
+      <div data-aos="fade-up">
+        <h5 style="color:white;">
+        The Marvel Heros have multiple characteristics. Please see visualizations below:
+        </h5>
+
+      </div>
+  </div>
+
+</section>
+<br>
+<!-- Create a div where the graph will take place -->
+<body style="background-color:rgb(230, 109, 88);text-align:center">
+    
+  <!-- Create a div where the graph will take place -->
+
+    <h1> Weight vs. Height of all Heros</h1>
+    <div id="area1"></div>
+      <div class="row">
+   
+  <!-- Load color scale -->
+  <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+  <script type="text/javascript" src="assets/js/bubbles.js"></script>
+
+    </div>
+  </div>
+     
+<br>
+<br>
+<br>
+<section id="heightinfo" style="background-color:black;">
+  <div class="container" style="height: 200px; padding-top: 60px;">
+  <div class="row">
+    <div class="col-md-12 mx-auto" style="text-align: center">
+      <div data-aos="fade-up">
+        <h5 style="color:white;">The Bubble chart contains all of the different height vs. weight data for the heros.
+          <br>It is compared to the Fighting skill number (power grid number) for each hero<br/></h5>
+
+      </div>
+    
+    </div>
+
+
+</div>
+
+</section>
+<br>
+<section>
+
+  <h1>  Height of all Heros</h1>
+ 
+  <div id="area2"></div>
+
+
+<script type="text/javascript" src="assets/js/Height_Bar.js"></script>
+  <p>
+  <label># bins</label>
+  <input type="number" min="1" max="200" step="20" value="20" id="nBin">
+  </p>
+  
+  <section id="heightinfo" style="background-color:black;">
+    <div class="container" style="height: 200px; padding-top: 60px;">
+    <div class="row">
+      <div class="col-md-12 mx-auto" style="text-align: center">
+        <div data-aos="fade-up">
+          <h5 style="color:white;">The Histogram is filter by heights into bins to see the whole graph of height data for all heros. </h5>
+           
+        </div>
+      </div>
+  </div>  
+  </section>  
+<br>
+<br>
+  <div class="container">
+    <h1>Average Height vs. Weight for each Gender</h1>
+    <div>
+        <canvas id="myChart"></canvas>
+        
+        <script src=https://cdnjs.cloudflare.com/ajax/libs/d3/5.7.0/d3.min.js></script>
+        <script src="https://d3js.org/d3.v5.min.js"></script>
+        <script type="text/javascript" src="assets/js/Linechart.js"></script>
+      
+    </div>
+</div>
+<br>
+<br>
+<section id="heightinfo" style="background-color:black;">
+  <div class="container" style="height: 200px; padding-top: 60px;">
+  <div class="row">
+    <div class="col-md-12 mx-auto" style="text-align: center">
+      <div data-aos="fade-up">
+        <h5 style="color:white;">The line graph shows the average height and weight of each of the genders for all of the heros. </h5>
+         
+      </div>
+    </div>
+</div>
+</section>
+
+<section id="heightinfo" style="background-color:rgb(230, 109, 88);">
+  <div class="container" style="height: 100px; padding-top: 40px;">
+  <div class="row">
+    <div class="col-md-12 mx-auto" style="text-align: center">
+      <div data-aos="fade-up">
+        <h1 style="color:white;">Occupation of the Heros based on Alignment </h1>
+         
+      </div>
+    </div>
+</div>
+</section>
+<section class=".wp-block-group__inner-container">
+  <div class="container-fluid wp-block-group__inner-container">
+    <br>
+    <div class="row">
+      
+      <div class="col-md-12 mx-auto" style="text-align: center">
+     
+        <div data-aos="fade-up">
+                 
+      <div class='col-md-12'>
+        <div class="row bg-white">
+
+          <div class='col-lg-6'>
+            <h5 style="color:black;">Good Marvel Occupations</h5>
+              <img class="img-fluid" id="1st-image" src="Output/GoodMarvelWC.png" alt="Comparison" style="width: 600px; height: 400px;">
+              </a>
+          </div>
+          <div class='col-lg-6'>
+            <h5 style="color:black;">Neutral Marvel Occupations</h5>
+            <img class="img-fluid" id="1st-image" src="Output/NeutralMarvelWC.png" alt="Comparison" style="width: 600px; height: 400px;">
+            </a>
+          </div>
+          <div class='col-lg-6'>
+            <h5 style="color:black;">Bad Marvel Occupations</h5>
+              <img class="img-fluid" id="1st-image" src="Output/BadMarvelWC.png" alt="Comparison" style="width: 600px; height: 400px;">
+              </a>
+          </div>
+          <div class='col-lg-6'>
+            <h5 style="color:black;">Marvel Occupations</h5>
+              <img class="img-fluid" id="1st-image" src="Output/Marvelwordcloud1.png" alt="Comparison" style="width: 600px; height: 400px;">
+            </a>
+          </div>
+
+        </div>
+      </div>
+    </div>
+</section> 
+<br>
+<br>
+<br>
+
+</section>  
+<br>
+<br>
+<section id="heightinfo" style="background-color:black;">
+  <div class="container" style="height: 50px; padding-top: 20px;">
+  <div class="row">
+    <div class="col-md-12 mx-auto" style="text-align: center">
+      <div data-aos="fade-up">
+        <h5 style="color:white;">***Go and find your hero.....*** </h5>
+         
+      </div>
+    </div>
+</div>  
+</section> 
+<br>
+<br>
+<br>
+
+<nav id="navbar" class="nav navbar navbar-expand-xl navbar-light bg-primary image" style="background-color: #cef1fc;">
+  <div class="container">
+    <a class="navbar-brand logo" href="index.html"><p class="colorp"></p></a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation" style="background-color: #e3f2fd;">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarToggleExternalContent">
+      <ul class="navbar-nav mr-auto navbac">
+        <li class="nav-item">
+          <a class="nav-link" href="about.html"><p class="colorp">About</p></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link " href="visualization.html"><p class="colorp">Hero Characteristics</p></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link " href="table.html"><p class="colorp">Find Your Hero</p></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="map.html"><p class="colorp">Location</p></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="100heros.html"><p class="colorp">Top 100 Co-Occurences</p></a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+</body>      
+
+
+</section>
+
+
+</body>
+
+</html>
+  

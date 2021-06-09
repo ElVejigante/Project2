@@ -1,0 +1,169 @@
+.one {
+            
+      border-width: 8px;
+      width: 200px;
+      background-color: rgb(8, 8, 8);
+      vertical-align: 100px;
+      opacity: 80%;
+      left: 10px;
+      float:left;
+      
+}
+
+.image{
+background-image: url('https://static0.srcdn.com/wordpress/wp-content/uploads/2021/04/Spider-Man-Mary-Jane-Comic-Art-Header.jpg');
+
+background-size: 20%;
+background-repeat: no-repeat;
+}
+
+.p1
+{
+color: black;
+font-weight: bold;
+text-align: center;
+background-color: rgb(253, 253, 253);
+}
+
+
+.navbar a:hover {
+background-color: rgb(168, 108, 106);
+color: rgb(243, 236, 236);
+}
+
+.active {
+  text-decoration: underline;
+}
+
+.navbar a.right {
+      float: left;
+      margin-left: auto;
+    }
+
+.navbar-brand{
+     
+      padding-bottom: 5%;
+      padding-top: 5%;
+      }
+.opa
+{
+color: rgb(14, 13, 13);
+}
+
+.colorp
+{
+color: rgb(253, 19, 19);
+}
+
+.navbac
+{
+background-color: rgb(250, 225, 225);
+opacity: 70%;
+border: 10px;
+border-radius: 100px;
+box-shadow: rgb(168, 108, 106);
+
+}
+
+.logo
+{
+background-image: url('https://image.freepik.com/free-vector/abstract-circle-light-red-frame-vector-background_7233-348.jpg');
+background-size: cover;
+width: auto; 
+height: 150px;
+border-radius: 150px;
+border-color: red;
+opacity: 80px;
+}
+
+.h1{
+            font-size: 45px;
+            line-height: 1.16;
+            letter-spacing: -.7px;
+      }
+.h2{
+            font-size: 38px;
+            line-height: 1.16;
+            letter-spacing: -.7px;
+            text-align: left;
+            font-size: 50px;
+      }
+.h3{
+      font-size: 38px;
+      line-height: 1.16;
+      letter-spacing: -.7px;
+      text-align: left;
+      font-size: 50px;
+      }
+
+.h5{
+      font-size: 20px;
+      line-height: 1.16;
+      letter-spacing: -.7px;
+      text-align: left;
+      
+      } 
+.h6{
+      font-size: 40px;
+      line-height: 1.16;
+      letter-spacing: -.7px;
+      text-align: left;
+            
+      } 
+
+.body{
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 24px;
+            margin:0;
+            background: #fff;
+            color: #000;
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+            min-height: 100vh;
+            
+        }
+      
+
+.bubbles {
+            stroke-width: 5px;
+            stroke: white;
+          }
+      .bubbles:hover {
+            stroke: black;
+          }
+          
+svg{
+      background-color: rgb(213, 220, 223);
+      }
+
+.tooltip{
+      font-family:Verdana;
+      font-size: 18px;
+
+
+}
+.axis text{
+      fill: rgba(241, 241, 241, 0.795);
+      font-size: 14px;
+      font-family:Verdana;
+  }
+
+#canvas{
+      width: 100%;
+     
+  }
+#myChart{ background-color: rgb(213, 220, 223);
+
+}
+
+.logo
+{
+      background-image: url('https://image.freepik.com/free-vector/abstract-circle-light-red-frame-vector-background_7233-348.jpg');
+      background-size: cover;
+      width: auto; 
+      height: 150px;
+      border-radius: 150px;
+      border-color: rgb(8, 8, 8);
+      opacity: 80px;
+}

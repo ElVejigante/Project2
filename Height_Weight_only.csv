@@ -1,0 +1,2279 @@
+TARGET,HEIGHT,WEIGHT
+Spider-Man ,70,167.0
+Captain America ,74,240.0
+Wolverine ,63,195.0
+Iron Man ,73,225.0
+Thor ,78,640.0
+Benjamin Grimm,72,500.0
+Reed Richards,73,180.0
+Hulk ,70,128.0
+Scott Summers,75,195.0
+Jonathan Storm,70,170.0
+Henry McCoy,71,402.0
+Susan Storm,66,120.0
+Namor McKenzie,74,278.0
+Ororo Munroe,71,145.0
+Clinton Barton,75,230.0
+Matthew Murdock,71,185.0
+Stephen Strange,72,180.0
+Mary Jane Watson,68,120.0
+John Jonah Jameson,71,181.0
+Robert Drake,68,145.0
+Henry Pym,72,185.0
+Charles Xavier,72,190.0
+Warren Worthington III,72,150.0
+Piotr Rasputin,78,250.0
+Wanda Maximoff,67,132.0
+Nicholas Fury,73,221.0
+Janet van Dyne,64,110.0
+Jean Grey,66,130.0
+Natalia Romanova,67,131.0
+Kurt Wagner,69,161.0
+Vision,75,300.0
+May Reilly,65,110.0
+Katherine Pryde,66,110.0
+Carol Danvers,71,124.0
+Jennifer Walters,70,150.0
+Emma Frost,70,144.0
+Frank Castle,75,225.0
+Luke Cage,78,425.0
+Rogue ,68,135.0
+Joseph Robertson,73,201.0
+Pietro Maximoff,72,175.0
+Hercules,77,325.0
+Victor von Doom,74,225.0
+Max Eisenhardt,74,190.0
+Elizabeth Braddock,71,155.0
+Norrin Radd,76,225.0
+Norman Osborn,71,185.0
+Eugene Thompson,49,160.0
+Simon Williams,74,380.0
+Samuel Guthrie,72,181.0
+James Buchanan Barnes,69,260.0
+Remy LeBeau,74,179.0
+Daniel Rand,71,175.0
+Elizabeth Brant,67,125.0
+Richard Jones,69,165.0
+Edwin Jarvis,69,160.0
+Alexander Summers,72,175.0
+Patricia Walker,68,135.0
+Human Torch ,75,300.0
+Loki Laufeyson,76,525.0
+Franklin Nelson,70,220.0
+Brian Braddock,78,257.0
+Otto Octavius,70,167.0
+James Rhodes,73,240.0
+Timothy Dugan,74,260.0
+Crystalia Amaquelin,66,110.0
+Samuel Wilson,74,240.0
+Wilson Fisk,79,450.0
+Odin Borson,81,650.0
+Dane Whitman,72,190.0
+Harold Osborn,70,170.0
+Franklin Richards,56,100.0
+Jessica Drew,70,130.0
+Rahne Sinclair,62,110.0
+Elizabeth Ross,66,110.0
+Lorna Dane,67,115.0
+Blaine Colt,70,180.0
+Johnathon Blaze,70,180.0
+Sif,74,425.0
+Red Hulk ,73,245.0
+Jubilation Lee,65,115.0
+Volstagg,80,1425.0
+Balder Odinson,76,720.0
+Danielle Moonstar,66,123.0
+Marc Spector,74,225.0
+Gwendolyne Stacy,67,130.0
+Medusalith Amaquelin,71,130.0
+Sabretooth ,78,275.0
+Illyana Rasputina,65,130.0
+Johann Shmidt,69,200.0
+Sean Cassidy,72,170.0
+Thomas Raymond,71,170.0
+Uatu,71,100.0
+Richard Rider,73,190.0
+Raven Darkholme,70,120.0
+Barbara Morse,69,135.0
+Blackagar Boltagon,74,220.0
+Brunnhilde,75,475.0
+Alison Blaire,68,115.0
+Greer Grant,70,180.0
+Karla Sofen,71,130.0
+William Baker,73,100.0
+Sharon Carter,68,135.0
+Felicia Hardy,70,120.0
+Cain Marko,113,1900.0
+Monica Rambeau,70,130.0
+Maria Hill,70,135.0
+Heather Douglas,75,150.0
+Millicent Collins,67,137.0
+James Proudstar,86,350.0
+Angelica Jones,68,125.0
+Edward Brock,75,260.0
+MacDonald Gargan,74,220.0
+Mephisto,78,310.0
+Tabitha Smith,65,122.0
+Jean-Paul Beaubier,71,185.0
+Daniel Ketch,70,180.0
+Neena Thurman,68,120.0
+Wong,68,140.0
+Thanos,79,985.0
+Shang-Chi,70,175.0
+Alicia Masters,64,110.0
+Robert Baldwin,70,170.0
+Vance Astrovik,70,180.0
+Wendell Vaughn,70,180.0
+Chili Storm,67,145.0
+Abner Jenkins,71,175.0
+Elektra Natchios,69,130.0
+Bullseye ,72,175.0
+Forge,72,179.0
+Virginia Potts,64,110.0
+Walter Langkowski,76,245.0
+James Madrox,71,155.0
+Heimdall,86,525.0
+Theresa Cassidy,67,130.0
+Laura Kinney,61,110.0
+Arthur Douglas,76,680.0
+Warlock ,71,100.0
+Kevin Plunder,74,215.0
+Leonard Samson,78,380.0
+Melissa Gold,65,145.0
+Lockheed,30,20.0
+Mercedes Knight,69,136.0
+Moira Kinross,67,135.0
+Namorita Prentiss,66,225.0
+Lockjaw,60,1240.0
+Adam Warlock,74,240.0
+Heather McNeil,65,120.0
+Curtis Connors,71,175.0
+Theodore Sallis,84,507.0
+Adrian Toomes,71,175.0
+Amora,75,450.0
+Clea,68,190.0
+Mar-Vell,74,240.0
+Eugene Judd,42,230.0
+Daimon Hellstrom,73,180.0
+John Jonah Jameson III,74,200.0
+Triton,74,190.0
+Meggan Puceanu,71,100.0
+Robert Reynolds,72,194.0
+Aleksei Sytsevich,77,710.0
+Santo Vaccarro,74,482.0
+Jonathan Clay,63,125.0
+Ares,73,500.0
+Sersi,69,140.0
+Guido Carosella,84,750.0
+Zabu,48,800.0
+Michael Morbius,70,170.0
+Julio Richter,69,145.0
+Phoenix Force,71,100.0
+Megan Gwynn,65,130.0
+Kyle Richmond,71,180.0
+Karen Page,67,125.0
+Tyrone Johnson,69,155.0
+Maxwell Dillon,71,165.0
+Valerie Cooper,69,134.0
+Vlad Dracula,77,220.0
+Tandy Bowen,65,115.0
+Monet St. Croix,67,125.0
+Amara Aquilla,66,131.0
+Julia Carpenter,69,140.0
+Jane Foster,67,135.0
+Mortimer Toynbee,69,169.0
+Scott Lang,72,190.0
+Paige Guthrie,67,128.0
+Benjamin Parker,69,175.0
+Erik Josten,76,225.0
+Jeanne-Marie Beaubier,71,140.0
+Carl Creel,76,270.0
+Gloria Grant,68,120.0
+Michael Twoyoungmen,70,175.0
+Hope Summers,66,106.0
+Eric Masterson,70,160.0
+Alexander Power,65,128.0
+Matthew Hawk,69,160.0
+Jessica Jones,67,124.0
+Frederick Dukes,70,510.0
+Eric Brooks,74,215.0
+Eros,73,190.0
+Madison Jeffries,73,195.0
+Mandarin,74,215.0
+The Wizard,68,150.0
+Akihiro,69,167.0
+Sergei Kravinoff,72,235.0
+Jonothon Starsmore,69,140.0
+Helmut Zemo,70,183.0
+Victor Borkowski,69,125.0
+Ultron,72,535.0
+Douglas Ramsey,69,150.0
+Quentin Beck,71,175.0
+Herbert Wyndham,74,200.0
+Julian Keller,70,170.0
+Jack Russell,70,200.0
+Celeste Cuckoo,66,105.0
+Valentina Allegra de Fontaine,68,130.0
+Ophelia Sarkissian,69,140.0
+Colleen Wing,69,135.0
+Irma Cuckoo,66,105.0
+Sebastian Shaw,74,210.0
+Phoebe Cuckoo,66,105.0
+Sage,67,135.0
+Valeria Richards,40,40.0
+Hela,84,500.0
+Lilandra Neramani,71,110.0
+Henry Gyrich,73,205.0
+Dwayne Taylor,75,240.0
+Harold Hogan,71,221.0
+Redwing,10,0.24
+Christopher Powell,69,150.0
+Harvey Elder,58,165.0
+Wolfgang von Strucker,74,225.0
+Dirk Garthwaite,75,320.0
+Pip Gofern,52,144.0
+Tony Masters,74,220.0
+David Lieberman,68,220.0
+James Hudson,74,225.0
+Miles Warren,70,175.0
+Kallark,78,595.0
+En Sabah Nur,84,300.0
+Shiro Yoshida,70,175.0
+Elvin Haliday,78,450.0
+James Bradley,71,170.0
+Calvin Zabo,71,185.0
+Frederick Myers,71,175.0
+Marlene Alraune,68,130.0
+Rachel Leighton,71,142.0
+Veranke,70,130.0
+Nathaniel Essex,77,285.0
+Anthony Druid,77,311.0
+Cassandra Lang,64,106.0
+Beta Ray Bill,79,480.0
+Samuel Sterns,70,144.0
+Leech,66,120.0
+Glenn Talbot,73,215.0
+Peter Petruski,70,160.0
+Julie Power,64,110.0
+Giuletta Nefaria,69,130.0
+Robert Ralston,67,157.0
+Maximus,71,180.0
+Genis-Vell,74,210.0
+Hisako Ichiki,64,112.0
+Dmitri Smerdyakov,71,175.0
+Madelyne Pryor,66,110.0
+Herman Schultz,69,175.0
+Noriko Ashida,67,137.0
+Chen Lu,78,290.0
+Ulysses Klaw,71,175.0
+Cessily Kincaid,64,114.0
+Kyle Gibney,68,152.0
+Jack Monroe,71,200.0
+Madeline Joyce,68,130.0
+George Tarleton,144,750.0
+Peter Wisdom,69,158.0
+Jeffrey Mace,74,205.0
+Aquaria Neptunia,71,189.0
+Narya,70,145.0
+Burglar,69,150.0
+Nightmare,71,100.0
+Ronan,89,480.0
+Thomas Halloway,75,209.0
+Jasper Sitwell,71,190.0
+Frank Payne,71,190.0
+Paladin,74,225.0
+Mad Thinker,71,195.0
+Arthur Maddicks,66,125.0
+Hedy Wolfe,68,125.0
+Dormammu,73,100.0
+Makkari,72,245.0
+Percival Pinkerton,71,155.0
+Quintavius Quire,68,129.0
+Cletus Kasady,73,190.0
+Aragorn,65,1050.0
+Betty Dean,67,135.0
+Karnilla,78,475.0
+Jacqueline Falsworth,64,110.0
+Caliban,80,275.0
+Isaac Christians,70,204.0
+Brock Rumlow,76,290.0
+Paul Norbert Ebersol,68,154.0
+Annihilus,71,200.0
+Jonathan Hart,71,175.0
+Bambina Arbogast,61,132.0
+Sooraya Qadir,66,136.0
+Zeus Panhellenios,79,560.0
+Randolph Robertson,72,185.0
+Yao,60,160.0
+Agatha Harkness,71,130.0
+Katherine Bishop,65,120.0
+Jason Wyngarde,70,140.0
+Walter Newell,75,200.0
+Joanna Cargill,83,230.0
+Parker Robbins,70,165.0
+Rocket Raccoon,48,55.0
+Lyja,66,130.0
+Georges Batroc,72,225.0
+Wyatt Wingfoot,78,260.0
+Peter Quill,74,175.0
+Marrow ,68,130.0
+Vision ,69,210.0
+William Kaplan,68,155.0
+George Stacy,73,190.0
+Mari,68,132.0
+Todd Arliss,73,450.0
+Hammerhead ,70,265.0
+Heinrich Zemo,69,180.0
+Emil Blonsky,80,980.0
+Arcturus Rann,71,178.0
+James Woo,68,170.0
+Frank Drake,72,180.0
+Callisto,69,130.0
+Dorma,70,185.0
+Lonnie Lincoln,72,460.0
+Doop,36,100.0
+David Alleyne,73,187.0
+Hepzibah,66,120.0
+Charlie Cluster-7,69,174.0
+Jacques Duquesne,76,250.0
+Arcade,66,140.0
+Mary Walker,70,140.0
+Miguel Santos,69,170.0
+Christopher Summers,75,175.0
+Morris Bench,74,265.0
+David Cannon,73,220.0
+Prosh,71,100.0
+Roderick Kingsley,71,185.0
+Dominikos Petrakis,71,195.0
+St. John Allerdyce,70,150.0
+Mary MacPherran,78,545.0
+Rita Wayword,70,162.0
+Angelo Espinosa,67,155.0
+Layla Miller,67,132.0
+Leland Owlsley,71,220.0
+Karl Lykos,69,170.0
+Jason Macendale Jr.,73,210.0
+Frigga,71,372.0
+Ikaris ,74,230.0
+Sharon Ventura,68,135.0
+Nico Minoru,64,102.0
+Clive Reston,73,180.0
+Robert Frank,70,180.0
+Elizabeth Twoyoungmen,68,132.0
+Everett Thomas,71,165.0
+Danger,72,275.0
+Dorrek VIII,72,170.0
+Amadeus Cho,66,117.0
+Phillip Masters,66,150.0
+Joshua Foley,69,157.0
+Karl Mordo,72,250.0
+William Foster,72,200.0
+Leiko Wu,68,133.0
+Chase Stein,71,188.0
+Louise Grant,62,140.0
+Pyreus Kril,76,220.0
+Yuriko Oyama,69,128.0
+Elijah Bradley,65,169.0
+Frankie Raye,64,130.0
+Jimaine Szardos,66,110.0
+Bethany Cabe,67,125.0
+Phillip Urich,67,140.0
+Delroy Garrett Jr.,74,200.0
+Anya Corazon,63,115.0
+Victoria Hand,66,135.0
+Margaret Carter,65,101.0
+Clay Quartermain,73,198.0
+Ghost,71,175.0
+Jill Stacy,69,135.0
+Abigail Brand,68,140.0
+Carlie Cooper,68,134.0
+Paul Duval,71,175.0
+Blastaar,78,520.0
+Jericho Drumm,72,220.0
+Ruth Aldine,64,120.0
+Azura,70,160.0
+Luna Maximoff,46,47.0
+Silhouette Chord,66,105.0
+Attuma,80,410.0
+Sally Blevins,65,115.0
+James Sanders,71,175.0
+Andreas von Strucker,69,165.0
+Patricia Tilby,66,119.0
+Michael Collins,73,200.0
+Eric Williams,76,225.0
+Gaea,71,175.0
+Raza Longknife,71,250.0
+Selene Gallio,70,130.0
+Michiko Musashi,66,120.0
+Skaar,63,105.0
+Roxanne Simpson,68,115.0
+Sinthea Shmidt,65,113.0
+George Washington Bridge,73,230.0
+Molly Hayes,59,97.0
+Klaus Voorhees,70,160.0
+Vanisher,65,175.0
+Skurge,86,1100.0
+Bernadette Rosenthal,69,145.0
+Nathan Lubensky,68,140.0
+David Haller,69,130.0
+Lemar Hoskins,78,285.0
+Donald Pierce,74,220.0
+Joseph Chapman,76,238.0
+Karolina Dean,69,115.0
+Bastion,75,375.0
+Satana Hellstrom,67,120.0
+Laynia Petrovna,66,125.0
+Night Raven ,73,115.0
+Kavita Rao,69,133.0
+Frederick Foswell,65,157.0
+John Greycrow,78,175.0
+Eric Koenig,72,176.0
+Keniuchio Harada,78,250.0
+Irene Adler,67,110.0
+Marrina Smallwood,72,200.0
+Fred Davis Jr.,68,156.0
+Zelda DuBois,68,140.0
+Beyonder,71,100.0
+Bonita Juarez,65,125.0
+Surtur,12000,100.0
+Stranger ,71,175.0
+Lillian Crawley,76,165.0
+Russell Collins,71,160.0
+Michael Badilino,76,250.0
+Helen Takahama,65,109.0
+Sally Avril,66,110.0
+Ebenezer Laughton,72,165.0
+Arnim Zola,70,200.0
+Mariko Yashida,60,100.0
+Dallas Riordan,70,150.0
+Hannibal King,71,190.0
+Thomas Cassidy,72,200.0
+Jessu00e1n Hoan,70,135.0
+Daisy Johnson,64,115.0
+John Horton,81,250.0
+Cecilia Reyes,67,120.0
+Barnell Bohusk,74,220.0
+Victor Mancha,69,197.0
+Awesome Android,181,100.0
+Samuel Smithers,72,193.0
+Wilbur Day,66,150.0
+Silvio Manfredi,74,195.0
+Richard Fisk,70,185.0
+Edward Whelan,72,220.0
+Donald Gill,69,170.0
+Aarkus,76,200.0
+Ringo Kid,68,154.0
+Esteban Corazu00f3n de Ablo,75,190.0
+Marvin Flumm,70,125.0
+Nathaniel Richards,74,170.0
+Kathryn Cushing,68,120.0
+Cameron Hodge,70,180.0
+Alistaire Stuart,71,100.0
+Stacy Dolan,68,115.0
+Sleepwalker,84,331.0
+Ivan Kragoff,71,215.0
+Marco Scarlotti,73,215.0
+Jennifer Takeda,65,120.0
+Broo,45,98.0
+Robert Grayson,70,170.0
+Boris Bullski,85,425.0
+Maximillian Coleridge,74,220.0
+"Nicholas Fury, Jr.",75,225.0
+Fin Fang Foom,71,100.0
+Samuel Saxon,73,175.0
+Jean DeWolff,68,135.0
+Blanche Sitznski,74,222.0
+Tanya Sealy,67,115.0
+Joy Mercado,70,135.0
+Bennet du Paris,72,195.0
+Martha Franklin,68,123.0
+Rachel van Helsing,68,135.0
+Jerome Beechman,72,270.0
+Yukio,69,130.0
+Lila Cheney,68,120.0
+Thomas Fireheart,74,240.0
+Kenneth Hale,72,340.0
+Mark Raxton,77,255.0
+Calvin Rankin,74,225.0
+Basil Sandhurst,74,565.0
+Hobie Brown,71,180.0
+Topaz,63,100.0
+Shadow King,71,100.0
+William Cross,72,190.0
+Rita DeMara,65,115.0
+Romulus Augustulus,74,225.0
+Super-Adaptoid,74,210.0
+John Proudstar,73,225.0
+Christoph Nord,75,230.0
+Maya Lopez,69,125.0
+Old Lace,83,334.0
+Humberto Lopez,67,142.0
+Luchino Nefaria,74,230.0
+Jennifer Kale,66,122.0
+Douglas Scott,75,260.0
+Ashley Kafka,66,140.0
+Robert Herman,77,216.0
+Justin Hammer,72,170.0
+Kristoff Vernard,59,103.0
+Gateway,54,80.0
+Lily Hollister,66,116.0
+Tyr Odinson,79,510.0
+Krang,72,290.0
+Zebediah Killgrave,71,165.0
+En Dwi Gast,85,240.0
+Arthur Stacy,72,185.0
+Franklin Hall,73,200.0
+Vertigo ,66,115.0
+Armando Muu00f1oz,76,150.0
+Jeanne Foucault,60,110.0
+Bruno Horgan,72,205.0
+Owen Reece,67,140.0
+Phineas Mason,68,170.0
+Man-Beast,82,320.0
+Candace Southern,67,117.0
+Heather Glenn,68,120.0
+Rintrah,96,400.0
+Kevin Masterson,66,140.0
+Arkady Rossovich,83,425.0
+Karima Shapandar,68,181.0
+Norah Winters,68,118.0
+Brandon Sharpe,68,150.0
+Plan Chu,74,210.0
+Modred,71,175.0
+Venus ,66,325.0
+Lance Temple ,72,176.0
+Impossible Man,76,165.0
+Robert Hunter,75,235.0
+Onslaught ,71,100.0
+Irene Merryweather,66,119.0
+Kro,77,320.0
+Melvin Potter,78,300.0
+Anath-Na Mut,86,450.0
+Gilgamesh,77,260.0
+Rebecca Blake,64,100.0
+Ruth Bat-Seraph,71,150.0
+Sofia Mantega,65,122.0
+Thomas Shepherd,68,155.0
+Ken Mack,71,175.0
+Debra Whitman,66,120.0
+Cassandra Webb,66,110.0
+Greg Willis,70,175.0
+Quincy Harker,68,185.0
+Duvid Fortunov,75,195.0
+Philippa Sontag,68,126.0
+Arthur Pendragon,73,220.0
+Hera Argeia,70,435.0
+Johann Fennhoff,78,321.0
+Mesmero ,68,180.0
+James Braddock Jr.,73,151.0
+Ayesha,78,390.0
+Nebula,73,185.0
+Blackout ,75,230.0
+Garrison Kane,74,480.0
+Phyla-Vell,69,103.0
+Eliot Franklin ,68,175.0
+Psycho-Man,69,135.0
+Humanoid Experimental Robot B-Type Integrated Electronics,64,150.0
+Fen,69,170.0
+Athena Parthenos,70,440.0
+Hector Ayala,72,190.0
+Mister Negative,71,180.0
+William Lumpkin,68,165.0
+Bova Ayrshire,69,220.0
+Seth,76,395.0
+Brian Falsworth,72,235.0
+Nikolai Krylenko,75,230.0
+Valinor,64,1200.0
+Vanessa Carlysle,72,148.0
+Donyell Taylor,76,300.0
+Ken Ellis,70,165.0
+Kevin Marlow,73,215.0
+Steven Rogers ,74,220.0
+Space Phantom,71,175.0
+Tana Nile,64,110.0
+Turk Barrett,70,185.0
+Fabian Stankowicz,66,121.0
+Masque ,66,140.0
+Manuel de la Rocha,71,175.0
+Kodiak Noatak,67,173.0
+Graydon Creed,72,160.0
+Max Eisenhardt ,74,190.0
+Seward Trainer,70,200.0
+Gunther Bain,73,220.0
+Robert Farrell,70,160.0
+Maximillian Zaran,73,235.0
+Chons,71,100.0
+Mikhail Ursus,75,255.0
+Joshua Guthrie,69,193.0
+Antonio Rodriguez,90,540.0
+Jack Hammer,67,130.0
+Neal Shaara,69,165.0
+"John Jonah Jameson, Sr.",68,152.0
+Terry Vance,67,149.0
+Aphrodite Ourania,66,380.0
+M-11,75,500.0
+Llyra Morris,194,420.0
+Robert Kelly,70,175.0
+Amelia Voght,66,129.0
+Marshall Stone III,73,150.0
+Alexei Kravinoff,75,220.0
+Guy Smith,72,180.0
+Tike Alicar,75,225.0
+Eden Fesi,70,175.0
+Raymond Dawson,70,170.0
+Tania Belinskaya,69,125.0
+William Nasland,74,215.0
+Roger Bochs,48,140.0
+Deidre Wentworth,78,180.0
+Fabian Cortez,77,214.0
+Sharra Neramani,69,195.0
+Rumiko Fujikawa,63,117.0
+Phillip Coulson,72,203.0
+Abraham Erskine,66,160.0
+Umar,71,200.0
+Satannish,71,100.0
+Nekra Sinclair,71,145.0
+In-Betweener,71,100.0
+Eric Payne,73,200.0
+Mentor ,69,150.0
+Manta,66,125.0
+Lorelei ,65,320.0
+Frances Barrison,68,115.0
+Tsu-Zana,66,233.0
+Richard Gilmore,71,185.0
+Tarene,69,317.0
+Melati Kusuma,51,110.0
+Jonas Graymalkin,70,180.0
+Thakorr,77,200.0
+Ulysses Bloodstone,74,225.0
+Maxwell Markham,81,290.0
+Colin Hume,72,200.0
+Martha Johansson,6,3.0
+Regan Wyngarde,69,133.0
+Michael Pointer,71,190.0
+Vanessa Fisk,68,125.0
+Wundarr,60,165.0
+Cerise,71,125.0
+Myles Alfred,66,125.0
+Gertrude Yorkes,61,125.0
+Alexander Aaron,61,95.0
+Elihas Starr,67,320.0
+James Wilson,70,144.0
+Stuart Clarke,70,185.0
+Malekith,81,185.0
+Oswald Silkworth,69,190.0
+Jesse Aaronson,72,195.0
+Miranda Leevald,71,160.0
+Angela del Toro,68,157.0
+Laurie Collins,64,118.0
+Gabriel Summers,72,178.0
+Miek,79,650.0
+Joseph Green,72,197.0
+Maki Matsumoto,66,119.0
+Mark Todd,72,198.0
+Robert Baxter,74,270.0
+Mordred,70,185.0
+Alexander Gentry,73,255.0
+Ahmet Abdol,71,170.0
+Jackson Norriss,72,177.0
+John Falsworth,70,140.0
+Erg,78,192.0
+James Bourne,72,200.0
+Abraham Zimmer,68,160.0
+Christopher Bradley,76,244.0
+Blind Al ,63,143.0
+Brightwind,64,1300.0
+Roger Aubrey,74,221.0
+Milos Masaryk,74,220.0
+Vera Cantor,66,130.0
+Noah Black,72,225.0
+Charles Barton,75,237.0
+Howard Stark,72,170.0
+Richard Rory,68,140.0
+Wilhelm Lohmer,70,145.0
+Jackson Day,73,225.0
+Thursday Rubinstein,66,125.0
+Belasco,76,250.0
+Edward Lavell,70,192.0
+Frank Simpson,75,270.0
+Silas Burr,78,400.0
+Carolyn Trainer,70,140.0
+Carlos LaMuerto,84,290.0
+Milla Donovan,68,130.0
+Tomi Shishido,76,215.0
+Samuel Alexander,66,140.0
+Katerina van Horn,84,282.0
+Lilith Drake,72,125.0
+Grannz,71,195.0
+Lord Chaos,71,175.0
+Andromeda Attumasen,68,180.0
+Blackheart,71,100.0
+Doreen Green,63,135.0
+Peter Hunter,67,140.0
+Justine Hammer,71,161.0
+Johnathon Gallo,68,147.0
+Maria de Guadalupe Santiago,67,150.0
+Elsa Bloodstone,69,120.0
+Thor Odinson ,78,640.0
+Roger Brokeridge,72,200.0
+Phineas Horton,70,133.0
+Byrrah,72,280.0
+Orka,132,732.0
+Grom,120,750.0
+Daniel Berkhart,70,160.0
+Simon Maddicks,77,250.0
+Iann-23,80,401.0
+Obadiah Stane,77,230.0
+Martin Preston,73,198.0
+Nick Katzenberg,70,220.0
+Century ,79,215.0
+Kuan-Yin Xorn,74,240.0
+Juston Seyfert,64,126.0
+Phoebus Apollo,72,525.0
+Leopold Stryke,68,180.0
+Mendel Stromm,70,450.0
+Yon-Rogg,72,220.0
+Barbarus,74,235.0
+Zarathos,74,100.0
+Ajak,73,220.0
+Araki,73,160.0
+Munin,41,20.0
+Sybil Dvorak,65,112.0
+Daniel Leighton,74,200.0
+Johnathon Ohnn,70,170.0
+Demogoblin,73,210.0
+Julius Mullarkey,81,252.0
+Kiskillilla,72,265.0
+Sarah Ryall,73,159.0
+Shevaun Haldane,67,120.0
+Steven Harmon,67,145.0
+James Santini,66,145.0
+Janice Yanizeski,68,143.0
+Paul Stacy,72,185.0
+Dead Girl ,68,101.0
+Abigail Boylen,65,100.0
+Richard Parker,71,175.0
+Steel Serpent ,73,205.0
+Jacob Conover,67,155.0
+Aaron Nicholson,72,170.0
+Amiko Kobayashi,52,88.0
+Ghaur,76,210.0
+Quincy McIver,222,545.0
+Ulysses Lugman,80,450.0
+Ananym,62,120.0
+Carlton LaFroyge,64,147.0
+Cosmo ,23,70.0
+Harrington Byrd,69,200.0
+Marianne Rodgers,66,126.0
+Jonathan Powers,74,190.0
+Amphibius,72,145.0
+Susan Scarbo,67,133.0
+Jarella,66,126.0
+William Taurens,72,220.0
+Paul Cartier,72,175.0
+Marduk Kurios,71,100.0
+Electron ,70,180.0
+William Stryker,72,180.0
+Marie-Ange Colbert,67,115.0
+Jackie Lukus,86,1100.0
+Niels,14,10.0
+Melody Jacobs,67,131.0
+Kevin Ford,68,146.0
+Ahura Boltagon,48,80.0
+Simon Garth,76,220.0
+Khan,74,190.0
+Norton Fester,69,150.0
+Brainchild,64,125.0
+David Angar,70,155.0
+Tilda Johnson,64,115.0
+Meranno,84,450.0
+Lancaster Sneed,71,170.0
+Deathwatch,73,200.0
+Elias Wirtham,77,300.0
+Bella Donna Boudreaux,72,150.0
+Yelena Belova,67,135.0
+Tiberius Stone,73,181.0
+William Robert Reilly,69,177.0
+Madeline Berry,71,175.0
+Bolivar Trask,70,170.0
+Spymaster ,72,195.0
+Harold Harold,69,142.0
+Master Order,71,175.0
+Madcap,69,145.0
+Ashley Crawford,71,100.0
+Goddess,72,200.0
+Carmella Unuscione,67,135.0
+Steven Hudak,70,175.0
+Inez Temple,71,142.0
+Monica Rappaccini,67,125.0
+Ava Ayala,67,131.0
+Arthur Nagan,79,603.0
+Brock Jones,72,220.0
+Steven Lang,71,166.0
+Clytemnestra Erwin,72,144.0
+Morley Erwin,71,170.0
+Haroun ibn Sallah al-Rashid,67,145.0
+Kim Il Sung,66,145.0
+Carl Burbank,72,225.0
+Frank Bohannan,73,235.0
+Scott Wright,67,140.0
+Mikhail Rasputin,73,225.0
+Peter Parker ,77,230.0
+Zoe Culloden,67,100.0
+Agent X ,74,215.0
+John Aman,71,162.0
+Wernher von Blitzschlag,67,152.0
+James Taylor James,67,145.0
+Yo Yo Rodriguez,71,175.0
+Poseidon Aegaeus,75,580.0
+Hermes Diaktoros,71,500.0
+Chester Phillips,71,175.0
+Aireo,69,110.0
+Gustav Brandt,72,195.0
+William Talltrees,76,240.0
+Tamara Rahn,64,245.0
+Richard Deacon,71,200.0
+Davida DeVito,73,194.0
+Erica Sondheim,67,125.0
+Karlin Malus,60,155.0
+Margali Szardos,62,115.0
+Nguyen Ngoc Coy,66,155.0
+Stick,69,135.0
+Val Ventura,62,101.0
+Lynn Michaels,69,130.0
+Tigon Liger,74,182.0
+Suzi Endo,64,111.0
+Nicholas Gleason,68,120.0
+Victor Alvarez,69,160.0
+Joseph Hogan,70,210.0
+Quasi-Motivational Destruct Organism,72,1350.0
+Mangog,71,100.0
+Arkon,72,400.0
+Ebony,71,9.0
+Jonas Harrow,73,200.0
+Vincent Stegron,74,350.0
+Albert Potter,74,190.0
+Archibald Dyker,72,829.0
+Drew Daniels,77,245.0
+Douglas Birely,71,170.0
+Jackson Arvad,73,195.0
+Julia Koenig,77,205.0
+Sergei Krylov,72,165.0
+Jennifer Stavros,61,90.0
+Colin McKay,71,170.0
+Caretaker ,75,200.0
+Morg,78,1900.0
+Victoria Montesi,60,165.0
+Kevin Trench,70,210.0
+Jack Harrison,73,210.0
+Alyssa Moy,69,129.0
+Malcolm Colcord,71,165.0
+Alex Wilder,69,151.0
+Carmilla Black,66,120.0
+Xavin,69,115.0
+Anastasia Kravinoff,64,120.0
+Ezekiel Stane,70,148.0
+Alistaire Smythe,72,131.0
+Ho Yinsen,62,120.0
+Living Brain,78,800.0
+Phillip Sterling,72,185.0
+Lawrence Cranston,70,150.0
+Erik Killmonger,78,225.0
+Zzzax,480,0.0
+James Montgomery Falsworth,73,240.0
+Titan,72,183.0
+Hugin,41,20.0
+James Jaspers,72,155.0
+Adversary,144,175.0
+Sharon Smith,72,140.0
+Bonebreaker,54,410.0
+Craig Hollis,74,156.0
+Brent Jackson,71,185.0
+Dee Milo,66,175.0
+Caiera,84,270.0
+Hiro-Kala,70,140.0
+Kelda,75,400.0
+Sebastian Druid,69,210.0
+June Covington,68,135.0
+David Rand,77,285.0
+Electro ,98,1225.0
+Doris Evans,64,110.0
+Alexi Shostakov,74,220.0
+Samantha Parrington,75,475.0
+Martin Blank,77,250.0
+Druig,71,190.0
+Peter van Zante,70,210.0
+Slaymaster,76,175.0
+Seth Voelker,69,180.0
+Sikorsky,18,1.0
+Cloud,71,100.0
+Jonathan Garrett,76,645.0
+Duc No Tranh,69,175.0
+Charles Little Sky,68,165.0
+Stellaris,66,130.0
+Marius St. Croix,75,156.0
+Angelina Brancale,68,302.0
+Delilah,69,125.0
+Jared Corbo,72,290.0
+Maggott ,80,350.0
+Vincent Gonzales,70,182.0
+Isabel Kane,68,130.0
+Bruce Dickson,72,170.0
+Adolf Hitler ,66,175.0
+Ymir,12000,175.0
+Jacob Fury,70,185.0
+Chthon,71,100.0
+Edward Lansky,71,175.0
+Nightside,66,125.0
+Ord Zyonz,85,390.0
+Sprite ,61,140.0
+Andrea von Strucker,69,110.0
+Janos Quested,70,158.0
+Malice ,71,175.0
+DeMarr Davis,70,180.0
+Shinobi Shaw,71,165.0
+Harley Davis,64,105.0
+Sondra Brandenberg,66,126.0
+Andrew Forson,72,180.0
+Daniel Lyons,69,170.0
+Joshua Ayers,71,185.0
+Morgan Stark,71,175.0
+Ultimo,71,100.0
+Linda Carter,69,135.0
+Mastermind ,168,175.0
+Samuel Barone,74,240.0
+Vril-Rokk,74,290.0
+Morris Sloan,69,185.0
+Hussar,65,120.0
+Roland Burroughs,66,151.0
+Anthony Power,72,220.0
+Calvin Carr,73,225.0
+Raymond Sikorski,61,175.0
+Vixen ,68,128.0
+Karl Morgenthau,74,235.0
+Michael Baer,82,386.0
+Kristine Watson,62,90.0
+Vali Halfling,67,420.0
+Steven Levins,72,200.0
+Siena Blaze,74,190.0
+Judas Traveller,70,160.0
+Vincente Fortunato,66,145.0
+Derek Khanata,73,182.0
+Klara Prast,57,95.0
+Terrance Ward,67,141.0
+Dexter Bennett,69,158.0
+Martinique Wyngarde,70,130.0
+James Jankovicz,72,160.0
+Harvey Schlemerman,68,155.0
+Frank Farnum,70,175.0
+Basil Elks,71,210.0
+Shen Kuei,69,155.0
+Tath Ki,60,100.0
+Toothgnasher,72,1700.0
+Marcus Daniels,70,180.0
+Roger Norvell,74,170.0
+Maelstrom,98,425.0
+Ulysses Archer,73,200.0
+Thomas Corsi,71,175.0
+Prism ,70,260.0
+Samuel John LaRoquette,71,100.0
+Felix Alvarez,72,175.0
+Malcolm McBride,70,175.0
+Roderick Campbell,73,166.0
+Devlor,66,140.0
+Samuel Paru00e9,59,97.0
+Deborah Fields,66,120.0
+Bob ,68,175.0
+Fat Cobra,79,652.0
+Ai Apaec,94,1729.0
+Kevin Connor,70,140.0
+Jack Frost,71,172.0
+Hippolyta,74,200.0
+Prester John ,73,210.0
+Gaza,81,290.0
+Anton Miguel Rodriquez,73,185.0
+Doctor Sun,43,3.5
+Kevin MacTaggert,71,100.0
+Marian Pouncy,72,210.0
+Reptyl,80,990.0
+Edith Sawyer,67,135.0
+Esme Cuckoo,66,105.0
+Ezekiel Sims,72,180.0
+Sidney Green,83,375.0
+Michael van Patrick ,71,173.0
+Faiza Hussain,68,134.0
+Dionysus Acratophorus,68,620.0
+Xemnu,132,1100.0
+Gary Gilbert,74,220.0
+Isaiah Curwen,72,220.0
+James Scully,74,200.0
+Moses Magnum,69,159.0
+Janus Tepes,72,215.0
+Toothgrinder,72,1700.0
+Lester Verde,74,225.0
+Matthew Gilden,69,170.0
+Earthquake,72,220.0
+Sunset Bain,66,140.0
+Vic Martinelli,71,180.0
+Eugene Patilio,69,185.0
+Revanche ,71,155.0
+Alexander Ellis,73,185.0
+Jason Ionello,68,140.0
+Adrian Corbo,68,160.0
+John Watkins III,74,195.0
+Christian Cord,71,180.0
+Brian Cruz,69,175.0
+Amatsu-Mikaboshi,71,100.0
+Maria Vasquez,69,133.0
+Sinclair Abbott,72,193.0
+Emery Schaub,67,202.0
+Michele Gonzales,66,140.0
+Leonard McKenzie,68,190.0
+Claire Voyant,69,127.0
+Heinz Kruger,69,160.0
+Suwan,61,101.0
+Jerold Morgan,67,180.0
+Kaluu,77,190.0
+Hyperion ,76,460.0
+Taj Nital,72,245.0
+Robert Frank Jr.,80,330.0
+Joseph Manfredi,73,190.0
+Charles Chandler,74,200.0
+Fritz von Meyer,77,104.0
+Peter Quinn,63,135.0
+Elysius,68,155.0
+"Han, Chang, Lin, Sun, and Ho Tao-Yu",74,186.0
+Katherine Waynesboro,69,134.0
+Black Fox ,69,152.0
+Sheoke Sanada,72,158.0
+Bloodscream,77,175.0
+Garabed Bashur,73,169.0
+Suvik Senyaka,70,173.0
+Arlette Truffaut,66,130.0
+Carter Ghazikhanian,50,72.0
+Vincent Stewart,74,200.0
+Adriana Soria,70,125.0
+Maya Hansen,67,138.0
+Elizabeth Barstow,67,135.0
+Frederick Duncan,72,190.0
+Thomas Gideon,69,155.0
+Jormungand,71,175.0
+Yandroth,72,180.0
+Michael Marko,83,270.0
+Shuma-Gorath ,71,100.0
+Curtis Carr,60,185.0
+Gabriel ,75,215.0
+Griffin Gogol,71,175.0
+Rieg Davan,75,265.0
+Nicholas Fury ,73,221.0
+Ereshkigal ,68,157.0
+Alan Fagan,71,165.0
+Deathurge,71,100.0
+Lorina Dodson,67,130.0
+Abigail Wright,69,135.0
+Aaron Chord,75,220.0
+Paibok,74,615.0
+Sublime,68,162.0
+Harlan Kleinstock,74,190.0
+Jillian Woods,69,140.0
+Sven Kleinstock,74,190.0
+Andrea Roarke,65,128.0
+Cleavon Twain,77,291.0
+Giacomo Fortunato,76,360.0
+Pierre Fresson,68,169.0
+Conrad Josten,70,150.0
+Trey Rollins,72,180.0
+Mister X,68,155.0
+Kevin Cole,71,195.0
+Kelsey Leigh,65,130.0
+Cul Borson,74,230.0
+Hrimhari,64,200.0
+Lani Ubanu,66,125.0
+Kondrati Topolov,54,215.0
+Magnus ,68,140.0
+Jason Strongbow,72,200.0
+Roberta,67,347.0
+Elton Healey,71,195.0
+Mark Hallett,85,245.0
+Ogun ,69,146.0
+Skullbuster,72,260.0
+Candra,69,130.0
+Skreet,71,0.2
+White Tiger ,103,400.0
+Fever Pitch,69,62.0
+Donald Callahan,69,160.0
+Sophie Cuckoo,66,105.0
+Shola Inkose,71,199.0
+Maximus Jensen,86,915.0
+Lambda-Zero,84,175.0
+Bride of Nine Spiders,71,130.0
+Aiden,74,185.0
+Wong-Chu,72,675.0
+Zarek,74,250.0
+Typhon,120,795.0
+George Smith,73,187.0
+Lupo,74,235.0
+Tongah,74,190.0
+Zala Dane,69,125.0
+Deacon Frost,74,200.0
+Desmond Charne,71,195.0
+Model X3Z,77,175.0
+Buford Hollis,80,410.0
+Mike Farrell,72,180.0
+Calypso Ezili,68,120.0
+Lois London,65,120.0
+Wallace Jackson,69,176.0
+Kathleen Dare,71,140.0
+Pretty Boy,68,235.0
+Perun,78,660.0
+Roughouse,80,774.0
+Epoch,71,100.0
+Donald Clendenon,74,257.0
+Feron ,66,125.0
+Paradox ,74,175.0
+Gregory Herd,70,170.0
+T-Ray,81,361.0
+Litterbug,77,326.0
+Gabriel Stacy,72,180.0
+Bor Burison,77,650.0
+Maha Yogi,74,245.0
+Spencer Smythe,70,175.0
+Cerberus,71,100.0
+Fafnir ,71,100.0
+Ralph Roberts,68,156.0
+Boss Morgan,68,237.0
+Veronica Dultry,70,163.0
+Brian DeWolff,71,190.0
+Davan Shakari,74,180.0
+Domini,69,125.0
+Woodgod,75,265.0
+Fireflyte,86,970.0
+Alain Racine,71,175.0
+Stanley Carter,71,175.0
+Buchanan Mitty,66,130.0
+Margaret Murdock,64,90.0
+Ariel ,60,130.0
+Priscilla Lyons,66,119.0
+Luis Alvarez,74,190.0
+Dinah Soar,79,98.0
+Eisenhower Canty,81,220.0
+Zachary Moonhunter,72,175.0
+Adam Neramani,74,210.0
+Victor Slaughter,74,222.0
+Jaine Cutter,71,145.0
+Rina Patel,64,100.0
+Rebecca Barnes ,64,98.0
+Montgomery Burns,74,85.0
+Cassandra Nova Xavier,64,115.0
+Shortpack,7,0.2
+Jack Castle,73,220.0
+Philo Zogolowski,72,166.0
+Elton Morrow,74,495.0
+Gregor Shapanka,66,165.0
+Roscoe Sweeney,72,175.0
+Edward March,72,243.0
+Reed Richards ,73,180.0
+Kronos ,71,175.0
+Nebulon,123,1150.0
+Terrance Sorenson,72,200.0
+Andru00e9 Gerard,71,195.0
+Lunatik ,68,165.0
+Tyrak,84,415.0
+Joseph Cartelli,72,180.0
+Centurious,74,185.0
+Sassafras,23,45.0
+Jesse Black Crow,73,190.0
+Alfredo Morelli,72,180.0
+Orphan-Maker ,90,175.0
+Geatar,80,292.0
+Keith Kraft,69,160.0
+Devos,86,175.0
+Andrew Graves,66,150.0
+Anne Weying,69,140.0
+Brian Hibbs,71,100.0
+Vladimir Kravinoff,76,240.0
+Bernie Lachenay,71,520.0
+Nils Styger,76,162.0
+Jack Truman,74,170.0
+Stewart Ward,71,181.0
+Heather Cameron,71,100.0
+Temugin,72,177.0
+Ravenous,79,975.0
+Henry Hellrung,73,225.0
+Alejandra Blaze,66,130.0
+Aldrif Odinsdottir,74,480.0
+Dennis Burton,70,175.0
+Richard Jones ,72,180.0
+Brian Dunlap,61,151.0
+Vincent Patilio,69,170.0
+Patricia Starr,68,120.0
+Linda Littletrees,67,110.0
+Agamotto,71,100.0
+Astra ,70,140.0
+Hobgoblin ,73,165.0
+Lance Hunter,75,190.0
+Scintilla,61,100.0
+Denise Baranger,66,125.0
+Flying Tiger,76,425.0
+Victoria Star,68,120.0
+Eitri,55,160.0
+Ferdinand Lopez,74,200.0
+Craig Saunders Jr.,75,450.0
+Stephen Beckley,73,190.0
+Dreamqueen,72,130.0
+Garthan Saal,70,200.0
+Mephista,70,125.0
+Victor Strange,75,190.0
+Meryet Karim,70,280.0
+Albert,63,300.0
+Infinity ,71,175.0
+Isaiah Bradley,76,260.0
+Praxagora,64,1000.0
+Aleksandra Nikolaevna,67,136.0
+Screwball,69,132.0
+Adam Brashear,76,230.0
+Tamara Devoux,66,140.0
+Zar,48,400.0
+Dynamic Man,75,250.0
+John Steele ,73,187.0
+Paul Destine,74,285.0
+Dweller-in-Darkness,12,12.0
+Lloyd Bloch,77,410.0
+Yagzan,74,175.0
+Horus ,82,410.0
+Krakoa,71,175.0
+Werner Schmidt ,6,4.0
+Aaron English,72,251.0
+Barton Hamilton,72,195.0
+Jackson Weele,65,140.0
+Hamilton Slade ,73,200.0
+Plague,65,130.0
+Alton Vibereaux,68,165.0
+Manslaughter,67,115.0
+Robin Braxton,76,300.0
+Mister Jip,84,475.0
+Buck Cashman,83,390.0
+Cyttorak,71,100.0
+John Wraith,72,195.0
+Korath-Thak,72,290.0
+Carl Denti,73,210.0
+"Jacob Gavin, Jr.",69,175.0
+Malcolm Murphy,80,244.0
+Noah DuBois,72,180.0
+John Ryker,74,190.0
+Pixie ,63,150.0
+Davis Cameron,72,152.0
+Kiden Nixon,63,98.0
+Ord ,89,341.0
+Patrick Mulligan,74,215.0
+Kimura,69,109.0
+Janice Lincoln,67,135.0
+Ex Nihilo,87,400.0
+Leila Davis,66,115.0
+Earl Everett,72,210.0
+Peter Noble,73,190.0
+Mary Mitchell,68,105.0
+Elendil,64,1000.0
+Dredmund Cromwell,73,200.0
+Raniero Drago,72,210.0
+Gor-Tok,0,0.0
+Gog ,3600,100.0
+Bereet,68,67.0
+Brendon Doyle,74,210.0
+Jalome Beacher,71,170.0
+Buck Chisholm,74,287.0
+Eric Savin,74,500.0
+Mikel Fury,72,205.0
+Kurt Gerhardt,70,180.0
+Buford Wilson,78,250.0
+Ernst Sablinova,70,162.0
+Scott Washington,69,172.0
+Theodore Winchester,83,423.0
+Wyre,60,198.0
+Cathy Webster,69,135.0
+Semiramis,72,136.0
+Baymax,77,480.0
+Duane Freeman,66,140.0
+Hiro Takachiho,64,110.0
+Isabella Carmela Magdalena Gnucci,38,62.0
+Francis Klum,69,150.0
+"Louis Sadler, Jr.",75,229.0
+Zuzha Yu,64,110.0
+Leper Queen,68,130.0
+Eliphas,72,190.0
+Eric Gitter,71,180.0
+Daniel Rose,77,300.0
+William Waring,74,250.0
+Albert Malik,67,165.0
+Xandu ,75,180.0
+Artemis ,69,420.0
+Joseph Timms,78,900.0
+Kinji Obatu,70,200.0
+Johnny Wakely,73,190.0
+Michael Stockton,71,181.0
+Benjamin Donovan,89,398.0
+Michael Rossi,71,180.0
+Thomas Lightner,73,190.0
+Anthony Davis,68,145.0
+Greg Salinger,72,197.0
+Minn-Erva,69,136.0
+Abdul Qamar,70,170.0
+James Marks,71,100.0
+Varnae,120,475.0
+Arthur Blackwood,74,225.0
+Gregory Nettles,69,154.0
+Melina Vostokoff,69,145.0
+Ape ,70,150.0
+Gilpetperdon,84,325.0
+Leir,86,655.0
+Cecilia Cardinale,66,115.0
+Nikolaus Geist,72,118.0
+Philip Sterns,70,182.0
+Fabian Marechal-Julbin,68,150.0
+Jeff Hagees,70,175.0
+Alkhema,72,510.0
+Isaac Javitz,109,1200.0
+Katu Kath,71,171.0
+Roberto da Costa ,71,8.9
+Emrys Killebrew,68,300.0
+Llyron McKenzie,74,278.0
+Delilah Dearborn,68,122.0
+Hope Hibbert,52,65.0
+Vargas,75,222.0
+Woodstock Schumaker,67,127.0
+Azazel,72,149.0
+Absolon Mercator,73,157.0
+Anti-Cap,76,258.0
+Wicked,61,99.0
+Jacob Oh,70,190.0
+Anton Vanko ,72,235.0
+Jim Gardley,75,222.0
+Victor Jay,69,170.0
+Howard Mitchell,70,195.0
+Thog,70,185.0
+Drake Shannon,70,180.0
+Silas King,72,210.0
+Thomas Stuart,72,200.0
+Desmond Pitt,74,225.0
+Lawrence Chesney,72,225.0
+Manphibian,86,425.0
+Impulse,70,175.0
+Arthur Dearborn,74,160.0
+Dragon of the Moon,71,100.0
+Magus ,71,100.0
+Beautiful Dreamer ,61,115.0
+Oblivion,71,175.0
+Bird-Brain,72,125.0
+Llan,75,185.0
+Nathan Lemon,71,190.0
+Francisco Milan,70,160.0
+Mortigan Goth,75,180.0
+Elaine Coll,70,140.0
+Hemingway,94,480.0
+Sack,67,175.0
+Gloria Muu00f1oz,67,127.0
+Deuce,24,77.0
+Strider,65,1100.0
+Aiko Miyazaki,67,126.0
+Jonathan Tremont,75,267.0
+Sarah Stacy,66,125.0
+Ethan Edwards,82,295.0
+Captain ,73,220.0
+Michael van Patrick,71,173.0
+Orson Randall,74,195.0
+Betty Swanson,68,142.0
+Shir Ydrn Talonis,73,180.0
+Gorgilla,72,345.0
+Jonathan Juniper,65,110.0
+Jack Winters,72,198.0
+Cephalus,73,285.0
+Meredith McCall,68,130.0
+Psyklop,96,450.0
+Necrodamus,60,120.0
+Imus Champion,108,776.0
+Marie Laveau,62,116.0
+Bram Velsing,68,160.0
+Magique,71,150.0
+Nicholas Scratch,75,220.0
+Fahnbullah Eddy,66,116.0
+Gabriel Lan,74,240.0
+Kenneth Crichton,69,140.0
+Scarlet Fasinera,72,151.0
+Oliver Osnick,71,185.0
+Alec Thorne,6,0.88
+Vidar Odinson,120,1022.0
+Number Nine,68,101.0
+John Kelly,96,950.0
+Kearson DeWitt,73,185.0
+Eileen Harsaw,65,111.0
+Lucia Callasantos,70,137.0
+Lynx,66,139.0
+Sister Nil,63,96.0
+Cody Fleischer,68,160.0
+Philip Sheldon,71,165.0
+Rafael Carago,95,338.0
+Vessel,78,320.0
+Gaia,64,116.0
+Leiko Tanaka,66,129.0
+Manuel Vicente,70,183.0
+Gordon Thomas,69,160.0
+Normie,71,30.0
+Gennady Gavrilov,69,137.0
+Amelia Weatherly,70,115.0
+Rutherford Princeton III,63,110.0
+Yukotujakzurjimozoata,74,310.0
+Sal Kennedy,71,235.0
+Zachary Smith Jr.,77,330.0
+Michael van Patrick ,71,173.0
+Joaquin Pennysworth,73,220.0
+Kyknos,79,351.0
+James Natale,72,210.0
+Larry Scott,71,191.0
+Witness ,66,180.0
+Santa Claus,72,250.0
+Yuri Topolov,63,175.0
+Don Hertz,72,176.0
+Dreamstalker,62,100.0
+Nathan Dolly,69,190.0
+Anelle,71,115.0
+Joseph Smith,73,225.0
+Clay Riley,74,210.0
+Joost van Straaten,72,190.0
+Piper ,61,135.0
+Jason Roland,72,280.0
+Brian Muldoon,71,200.0
+Damon Dran,68,150.0
+Ramrod ,81,300.0
+Fera,71,158.0
+Brynocki,30,60.0
+Mitchell Tanner,75,550.0
+Waldo ,61,250.0
+Antoine Delsoin,71,180.0
+White Dragon ,68,160.0
+Artemus Pithins,70,160.0
+Randall Spector,72,190.0
+Carson Knowles,72,185.0
+Mistress Love,71,100.0
+Shingen Harada,70,185.0
+Zsaji,63,130.0
+Cairbre,80,590.0
+Jack Taggert,69,230.0
+Sapphire Styx,61,135.0
+Winston Manchester,71,130.0
+Hadad,111,1490.0
+Seraph,39,68.0
+Christopher Daniels,74,225.0
+Milos Abyss,76,300.0
+Dirtnap,68,155.0
+Lunatik ,74,220.0
+William Allen,70,175.0
+Charlotte Witter,70,128.0
+Glenda Sandoval,65,118.0
+Red Shift,76,250.0
+John Lopez,70,180.0
+James Murch,70,182.0
+Jon Kasiya,66,145.0
+Hit-Monkey,29,31.0
+Loki Laufeyson ,52,188.0
+Doombot ,79,415.0
+Flexo,72,700.0
+Roy Chambers,74,180.0
+Jack the Ripper,72,195.0
+Kala,68,135.0
+Captain Barracuda,72,210.0
+Manuel Eloganto,72,219.0
+Aged Genghis,64,84.0
+Qnax,93,915.0
+Orlando Furio,72,180.0
+Commander Kraken,74,215.0
+Biri,31,52.0
+Gideon Mace,74,170.0
+Ina,29,40.0
+Willis Stryker,76,200.0
+Ard-Con,102,680.0
+Lucas Brand,74,210.0
+John Kowalski,70,160.0
+Glitternight,73,170.0
+Straw Man,70,60.0
+Burt Kenyon,73,210.0
+Fang ,64,185.0
+John McIver,73,210.0
+Edwin Cord,71,175.0
+Ruriko Tsumura,69,130.0
+Crystar,74,225.0
+Tarianna,80,210.0
+Tar Baby,73,163.0
+Lionel Jeffries,75,180.0
+Renee Deladier,69,130.0
+Chance ,62,97.0
+Animus ,72,195.0
+Sire Hate,71,100.0
+Zuri,75,205.0
+Achebe,72,190.0
+Clinton McIntyre,75,280.0
+Robert Paine,74,231.0
+Russian,86,573.0
+Velmax,71,156.0
+Desak Sterixian,78,450.0
+Sonny Baredo,73,395.0
+Charles Moss,79,252.0
+Mike Columbus,77,220.0
+Invader-1,66,144.0
+Sasha Martin,65,110.0
+Achelous,74,595.0
+Gazer,78,350.0
+Nina Price,65,119.0
+Tippy-Toe,24,1.8
+Johnny Dee,69,175.0
+John Ladue,66,142.0
+Zak-Del,67,147.0
+Alana Jobson,70,130.0
+Alexis,67,130.0
+Kamala Khan,64,125.0
+Leslie Lenrow,71,170.0
+Luther Robinson,71,175.0
+Lynne Harris,63,110.0
+Simon Meke,69,179.0
+Nimo,31,155.0
+Mogul of the Mystic Mountain,81,660.0
+Myron MacLain,69,180.0
+Burtram Worthington,70,155.0
+Walter Collins,64,210.0
+Edith Harker,64,115.0
+Korrek,77,267.0
+Alpha ,108,240.0
+Cagliostro ,71,175.0
+Desmond Drew,72,180.0
+Taboo,60,170.0
+Arisen Tyrk,76,200.0
+Henri Sorel,70,170.0
+Jebediah Fate,71,160.0
+Selma Blotte,66,241.0
+Adam II,75,300.0
+Lyle Dekker,144,1320.0
+Bradley Kroon,74,300.0
+Robert Markham,73,195.0
+Larry Ekler,69,169.0
+Molly Fitzgerald,70,135.0
+Jefferson Archer,71,178.0
+Sonya Tolsky,71,156.0
+Douglas Carmody,67,190.0
+Micah Synn,78,250.0
+Alexander Woolcot,62,105.0
+F.R. Crozier,68,131.0
+Sol Brodstroke,72,173.0
+Frank Skorina,97,568.0
+Thomas Jones,71,140.0
+Cylla Markham,71,175.0
+Hunter in Darkness,96,350.0
+Dania,71,118.0
+Jonathan Bryant ,74,200.0
+Roco-Bai,74,395.0
+Seamus Mellencamp,72,191.0
+Simon Hall,68,150.0
+Anton Hellgate,74,185.0
+Ronald Hilliard,71,165.0
+Todd Fields,67,140.0
+Verminus Rex,69,170.0
+Jomo Kimanye,71,184.0
+Autonomously Decisive Automated Mechanism,68,225.0
+Navid Hashim,74,175.0
+Andrea Benton,68,140.0
+Rick Mason,71,195.0
+Monica Chang,64,117.0
+Victoria Murdock,70,136.0
+Googam,59,343.0
+Carl Zante,71,190.0
+Scarlet Beetle,71,100.0
+Rama Kaliph,71,158.0
+Zoltan Drago,72,170.0
+August Hopper,69,168.0
+John Robert Keane,70,180.0
+Gary Buser,69,185.0
+Lurking Unknown,124,532.0
+Randau,81,1200.0
+Equilibrius,71,175.0
+Galaxy Master,71,100.0
+Dark-Crawler,72,200.0
+Horatio Walters,72,191.0
+Moondark,71,160.0
+Piranha,75,300.0
+Barry Bauman,69,145.0
+Chip Martin,72,180.0
+Edward Cobert,79,325.0
+Ian McNee,70,150.0
+Michael Silk,64,123.0
+Chief Examiner,90,100.0
+Alice Nugent,65,125.0
+Annalee,62,165.0
+Nicholas Grossman,63,150.0
+Benjamin Beckley,58,90.0
+Brainstorm ,82,300.0
+Muzzafar Lambert,74,227.0
+Leeann Foreman,70,142.0
+Sean Watanabe,66,194.0
+Joss Shappe,71,180.0
+Marco Delgado,80,240.0
+Mikal Drakonmegas,74,185.0
+Occulus,76,290.0
+Diabolique,50,80.0
+Gregory Terraerton,72,222.0
+Josef Huber,75,200.0
+Shigeru Ezaki ,70,188.0
+Tanya Trask,69,114.0
+Ajax ,76,200.0
+Lavinia LeBlanc,44,75.0
+Samantha Dunbar ,72,180.0
+Darian Elliott,72,210.0
+Fiona Knoblach,66,110.0
+Paul Hark,73,165.0
+Wayne Markley,72,190.0
+Black Swan,74,210.0
+Elizabeth Bondi,68,142.0
+Garrison Klum,69,200.0
+Sandra Verdugo,68,122.0
+Shathra,74,120.0
+Fallen One ,82,400.0
+John Zander,71,173.0
+Charles Weiderman,67,140.0
+Curtis Doyle,69,160.0
+Lucas Cross,78,224.0
+Shiklah,123,645.0
+Leonard Gade,71,165.0
+Merzah,72,181.0
+William Carmody,67,179.0
+Dan Kane,71,185.0
+Gitche Manitou,77,350.0
+Charles Stanton,68,130.0
+Jason Cragg,70,200.0
+Wilhelm van Vile,71,215.0
+Vuk,64,130.0
+Tom Regal,76,183.0
+Trung Tuan,67,137.0
+Faceless One,41,74.0
+Golem ,102,1590.0
+Hathor-Sekhmet,71,100.0
+Turac,78,265.0
+Roscoe Simons,69,207.0
+William Turner,73,210.0
+Arides,69,195.0
+Gorr ,68,225.0
+Achmed Korba,76,225.0
+Hecate,75,465.0
+Virako,77,270.0
+Kirigi,84,300.0
+Null the Living Darkness,71,100.0
+Friedrich von Roehm,68,190.0
+Healer,75,210.0
+O.Z. Chase,71,211.0
+Piper ,69,170.0
+Urthona,83,390.0
+Gerald Stone,69,200.0
+Kwaku Anansi,70,250.0
+Beatta Dubiel,68,153.0
+Danielle Forte,66,129.0
+Purple Hayes,70,140.0
+Allen Marc Yuric,76,190.0
+Markus Ettlinger,73,235.0
+Nadia Dornova,68,115.0
+Norman Harrison,72,190.0
+Origin,600,175.0
+Dwarf,42,130.0
+Black Axe,73,190.0
+Darklore,72,185.0
+Edward Passim,70,180.0
+Priapus,73,410.0
+William Hastings,68,125.0
+Advisor,72,190.0
+Kateri Deseronto,70,140.0
+Talos,76,657.0
+Ilaney Brukner,67,197.0
+Wilhelmina Lumpkin,69,115.0
+Aria,69,132.0
+Bounty ,71,100.0
+Mercedes Wilson,67,140.0
+Pagan,71,175.0
+Amanda Mueller,66,96.0
+Maguire Beck,66,129.0
+Sharon Ginsberg,64,121.0
+Robbie Rodriguez,70,155.0
+Native,60,99.0
+Micah,71,100.0
+Cru,144,1504.0
+Kerberos,24,20.0
+Freak ,72,210.0
+James Madrox ,71,180.0
+Unspoken,90,298.0
+Xarus,74,200.0
+Carl Burgess,71,175.0
+Marvex the Super-Robot,73,300.0
+John Watkins,73,210.0
+Man-oo,66,325.0
+Philip Wing,78,170.0
+Blackie Gaxton,72,210.0
+Infant Terrible,72,200.0
+Rabble Rouser ,71,185.0
+Tiboro,76,230.0
+Caldwell Rozza,96,975.0
+Valeria ,69,135.0
+Yeti ,90,780.0
+Richard Janus,70,170.0
+Tagak,72,190.0
+Bi-Beast,90,360.0
+Lucy Westenra,67,128.0
+Xorr the God-Jewel,71,100.0
+Ronald English,73,175.0
+Dromedan,144,420.0
+Abd-el-Hazred,82,285.0
+Geri,50,220.0
+Victor von Doom ,74,225.0
+Bel-Dann,72,220.0
+Dolly Donahue,69,121.0
+Jonathan Darque,76,245.0
+Manfred Haller,77,293.0
+Kenji Oyama,71,170.0
+Ernest St. Ives,69,390.0
+Samuel Smith,70,170.0
+Jacob Eichorn,74,134.0
+Jody Putt,69,170.0
+Crule,80,329.0
+Heike Zemo,69,135.0
+Radha Dastoor,72,151.0
+River Verys,93,100.0
+Josephine Pulaski,62,109.0
+Kamal el Alaoui,79,240.0
+Ashema,71,175.0
+Naomi Kale,67,120.0
+Gray Dolman,72,195.0
+Venkat Katregadda,69,160.0
+Nathaniel Bumpo,77,1200.0
+Axel Cluney,71,175.0
+"Samuel Silke, Jr.",70,170.0
+Khan ,73,352.0
+Leash,73,153.0
+Yith,73,225.0
+Digger ,88,755.0
+Shen Xorn,74,240.0
+Jack Dio,72,175.0
+Cronus,182,1210.0
+Piper Dali,70,130.0
+Plokta,71,175.0
+Zodiac ,69,158.0
+Robert Hellsgaard,73,142.0
+Dakor,72,180.0
+Monako,71,185.0
+Robert Strong,71,185.0
+Laslo Pevely,80,190.0
+Kurrgo,53,320.0
+Karl Kort,60,107.0
+Molyb,66,120.0
+Orson Kasloff,69,160.0
+Pearla,67,120.0
+Reynard Slinker,63,165.0
+Knorda,74,467.0
+Gregory Gideon,60,175.0
+Jacques Dernier,72,190.0
+Ricardo Jones,73,215.0
+Android Man,76,400.0
+Prime Mover,80,700.0
+William Lincoln,70,170.0
+Owayodata,78,400.0
+Clifton Shallot,71,175.0
+Dam-Ayido Wede,144,300.0
+Kerwin Broderick,66,140.0
+Adri Nital,61,95.0
+Bessie,54,575.0
+Steven Rogers ,74,220.0
+Threkker,70,150.0
+Barbara Robb,69,125.0
+Freki,50,220.0
+Denton Phelps,74,210.0
+Iguana,12,2.2
+Izanagi-No-Mikoto,72,350.0
+Randolph James,144,400.0
+Phaeder,77,225.0
+Talisman ,68,170.0
+Blank ,71,175.0
+Hubert Carpenter,72,360.0
+Misty Collins,67,125.0
+Scaleface,67,139.0
+Roland Rayburn,70,170.0
+Sequoia,68,190.0
+Bercilak de Hautdesert,71,290.0
+Monkey Joe,27,2.2
+Angela Cairn,68,175.0
+Rachel Argosy,68,131.0
+Bernard Hoyster,88,450.0
+Suma-Ket,76,230.0
+Tamika Bowden,69,120.0
+Bartholomew Gallows,73,225.0
+John Carik,70,170.0
+Baby Karen,18,15.0
+Olivier,72,250.0
+Richard Dennison,69,175.0
+Mikado,67,120.0
+Mosha,67,120.0
+Coach,71,175.0
+Leyu Yoshida,67,125.0
+Mary Zero ,60,98.0
+Michael Hart,73,195.0
+Harald Jaekelsson,91,365.0
+Maximus Lobo,71,175.0
+Alexander Bont,71,190.0
+Whiz Kid,62,110.0
+Mana Yanowa,62,100.0
+Theodore Scott,67,159.0
+Zhib-Ran,76,460.0
+Ladyfair,68,133.0
+Michael van Patrick ,71,173.0
+Richard Palance,72,199.0
+Michael van Patrick ,71,173.0
+Damon Ryder,71,200.0
+Meltdown ,63,220.0
+Lagaro,75,240.0
+Spencer Keen,72,257.0
+Tuk,69,129.0
+Henry Mortonson,73,160.0
+Isidoro Scarlotti,74,155.0
+Diablo ,71,100.0
+Elektro,79,810.0
+Sandu,66,125.0
+Lee Guardineer,72,170.0
+Abner Jonas,68,217.0
+Donald Birch,70,173.0
+Prowler ,70,150.0
+Shazana,68,130.0
+Pavel Plotnick,68,179.0
+Ixar,72,190.0
+Paxton Page,71,167.0
+Mowfus,76,300.0
+Victor Conrad,74,235.0
+Dontrell Hamilton,66,150.0
+Thelius,70,170.0
+Osinga Rplss,66,375.0
+Zacharaiah Seavey,72,255.0
+Zorba,73,195.0
+Hubert Fusser,48,80.0
+Quetzalcoatl,76,575.0
+Tako Shamara,69,154.0
+Tezcatlipoca,78,625.0
+Ultima Wordman,69,130.0
+Edward Ferbel,63,245.0
+Zaniac,76,278.0
+Saturnine,71,100.0
+Ernest Popchik,68,150.0
+Predator,86,510.0
+Shagreen ,72,190.0
+Thomas Samuels,69,189.0
+Muramasa,70,180.0
+Elizabeth Rawson,73,197.0
+Shanzar,71,100.0
+Spore,71,100.0
+Bodb Derg,89,750.0
+Jeremy Swimming-Bear,71,180.0
+Aldo Ferro,70,135.0
+Rubanna Quormo,98,447.0
+Skinner ,75,230.0
+Alisher Sham,69,170.0
+Brell,76,260.0
+James Owl,69,160.0
+Voyager ,71,100.0
+Aranda Charboneau,70,127.0
+Gray Garrison,75,220.0
+Lord Moses,76,290.0
+Xira,67,140.0
+David Breyer,74,195.0
+M-Nell,70,185.0
+Roddy McLeish,73,200.0
+Lily Cromwell,67,125.0
+Tiamat ,85,540.0
+Zachary Williams,75,190.0
+Mechamage,73,145.0
+Benjamin Tibbets,73,184.0
+Kelly Kooliq,61,106.0
+Mondo,72,230.0
+Buford Lange,72,190.0
+Hector Rendoza,66,120.0
+Nagala,72,175.0
+Paul Provenzano,73,178.0
+Angel Dust ,65,126.0
+Apache Kid ,66,125.0
+Arnold Lundberg,67,120.0
+Jacob Nash,74,210.0
+Postman ,70,170.0
+Shatter,67,150.0
+Topher,71,171.0
+Aamshed,71,140.0
+Skornn,71,100.0
+Mariano Lopez,74,200.0
+Reginald Mantz,72,224.0
+Celia Ricadonna,66,129.0
+Eradica,90,1225.0
+Petra,70,143.0
+Preak,120,1020.0
+Suzanne Chan,69,137.0
+Hate-Monger ,74,215.0
+Oberon,184,990.0
+Trenton Craft,73,189.0
+Bendigeidfran,71,100.0
+Ethan Warren,70,165.0
+Michael van Patrick ,71,173.0
+Dennis Sykes,69,145.0
+Shredder,77,190.0
+Dawn Greenwood,60,150.0
+Robbie Reyes,67,140.0
+Tanalth,85,400.0
+Jim Taylor,69,150.0
+Robert Foster,74,240.0
+Trojak,74,190.0
+Diablo ,120,420.0
+Otto von Schmittsder,11,11.0
+Chief Wilson,70,185.0
+Nina Tsiolkovsky,66,125.0
+Carlo Strange,68,169.0
+Dorian Murdstone,66,160.0
+Aggamon,78,234.0
+Antonio Rojo,68,297.0
+Franklin Storm,74,205.0
+Harold Kane,68,169.0
+Redford Raven,69,180.0
+Edward Forsyth,70,170.0
+Andro,79,300.0
+Lawrence Rambow,74,225.0
+Michel Berman,71,180.0
+Durok,86,868.0
+Cyrus Black,72,156.0
+Nathaniel Omen,59,109.0
+Preyy,41,176.0
+Zhered-Na,71,130.0
+King Cadaver,50,122.0
+Carlos Cabrera,68,169.0
+Drom,68,150.0
+Helleyes,71,100.0
+William Young,76,280.0
+Elias Schleigal,69,154.0
+Mortimer Norris,78,317.0
+Pro-Rata,74,173.0
+Empathoid,78,100.0
+Night Flyer,72,198.0
+Vera Gemini,70,130.0
+Priscilla Ironwood,66,120.0
+Torgo Nia,76,225.0
+Eric Cameron,66,133.0
+Nuadhu,91,825.0
+Raksor,72,180.0
+Elfqueen ,70,140.0
+Jonathan Logan,67,149.0
+Michael English,72,180.0
+Mary Brown ,64,110.0
+Ashake ,71,130.0
+Gavin Grant,72,200.0
+Hiram Riddley,65,118.0
+Farouk Al-Fasaud,72,185.0
+Arthur Bigelow,69,181.0
+Rex Randolph,84,220.0
+Jason Jerome,72,180.0
+Dreadface,71,100.0
+Kathy Malper,68,100.0
+Pico Halfghanaghan,54,125.0
+Wildrun,74,200.0
+Alex Wildman,68,175.0
+Gulliver Jones,72,200.0
+Kyllian Boddicker,74,210.0
+Roberto Velasquez,65,119.0
+Louis Dexter,71,190.0
+Malachi,69,140.0
+Tito Mendez,70,180.0
+Conundrum,70,170.0
+Jacob Lashinski,68,139.0
+Lawrence Young,74,170.0
+Sorrow,71,100.0
+Gianna Esperanza,68,130.0
+Marcus Andrews,62,120.0
+Mortimer Everett,66,140.0
+White Wolf ,73,185.0
+Patrick Carney,74,180.0
+Battering Ram,71,175.0
+Beckah Parker,71,175.0
+Christopher Cassera,70,154.0
+Lupa ,71,161.0
+Ardina,76,218.0
+Atleza Langunn,33,23.0
+Cell,68,175.0
+Electric Eve,71,140.0
+G-Type,74,175.0
+Luke Carlyle,73,180.0
+Marduk,68,290.0
+Trader ,73,175.0
+Morwen,72,447.0
+Kioshi Keishicho,77,260.0
+Lumina,66,137.0
+Frank Johnson,87,450.0
+Ghoul ,86,325.0
+Godseye,71,100.0
+Death Tiger,73,208.0
+Phaedra,69,136.0
+Shep Gunderson,38,105.0
+Tyler Smithson,88,210.0
+Dennis Piper,71,170.0
+Eternal Brain ,67,179.0
+Perry Webb,70,162.0
+Persephone ,69,410.0
+Cindy Moon,67,130.0
+Allan Lewis,71,175.0
+Benjamin Ruff,70,175.0
+Bruce Bravelle,73,185.0
+Khufor,79,225.0
+Martin Simon Burns,67,139.0
+Varen David,98,350.0
+Zara of the Jungle,67,135.0
+Zephyrus Jones,74,190.0
+Lord of Death,71,230.0
+Pascal Horta,74,170.0
+Ivan Kronov,78,250.0
+Gerald Marsh,68,180.0
+Kulla,84,250.0
+Lawrence Zaxton,67,137.0
+Ape ,67,340.0
+Lee Portman,71,300.0
+Zota of Pergamum,68,143.0
+Frank Smith,68,163.0
+Tazza,68,156.0
+Jim Morita,66,135.0
+Jonathan East,74,185.0
+Nimrod ,79,285.0
+Ree-Zee,72,300.0
+Thomas Thunderhead,73,185.0
+Virago,68,146.0
+Papa Shorty,48,130.0
+William Roberts,72,195.0
+Garko,69,163.0
+Kirov Petrovna,81,230.0
+Slitherogue,74,163.0
+Jason Beere,73,195.0
+"William Evans, Jr.",56,80.0
+Azaziah,69,224.0
+Morgan Hardy,71,100.0
+Narda Ravanna,65,120.0
+Shialmar,71,130.0
+Megan Daemon,64,100.0
+Petunia Grimm,66,110.0
+Stewart Cadwall,74,225.0
+Marandi Sjorokker,60,100.0
+Tommy ,63,110.0
+Dafydd ap Iowerth,70,215.0
+Sagbata,74,290.0
+Aleksey Lebedev,72,190.0
+Jim Sharp,72,180.0
+Leslie Anne Shappe,68,145.0
+Hardball ,63,210.0
+Kevin Leonardo,73,195.0
+Stephen Strange ,74,180.0
+Super-Ego,71,175.0
+Frank Bigelow,84,300.0
+Hrinmeer,79,524.0
+Orville Nugent,69,150.0
+Shelob,68,130.0
+Gravemoss,72,185.0
+Astrid Mordo,71,130.0
+Alfonso Lopez,74,200.0
+David Lowell,75,225.0
+Pandemonia,84,220.0
+Pele ,70,300.0
+Sedna,70,250.0
+Wade Wilson ,37,80.0
+Nocturne,75,155.0
+Byron Spencer,71,175.0
+Carl King,73,224.0
+Godstorm,480000,100.0
+Jean-Pierre Beaubier,74,145.0
+Pierre Truffaut,75,173.0
+Plazm,71,175.0
+Saint Anna ,71,175.0
+Walker ,74,175.0
+Arc ,76,225.0
+Modulus,73,0.0
+Monstra,80,516.0
+Quincy Marrow,41,175.0
+Dean Boswell,71,175.0
+Zhao Yen,64,290.0
+Cole Wittman,68,139.0
+Deborah Bertrand,68,135.0
+Valeria Toomes,70,141.0
+Suspiria,70,142.0
+Juan-Carlos Sanchez,74,240.0
+Pitiful One,73,100.0
+Salo,65,145.0
+Hecatomb,71,175.0
+Andrea von Strucker ,69,110.0
+Harrow,77,211.0
+Pink Lady,71,175.0
+Dante ,71,161.0
+Ken Masters,72,166.0
+Barnabus Mullen,73,188.0
+Dale Sturm,73,225.0
+David Dean,71,175.0
+Donovan Gorman,71,170.0
+Doyle Denton,74,195.0
+Magar the Mystic,74,170.0
+Martin Oksner Burns,69,119.0
+Blaze ,28,83.0
+Mocuepa Tlalticpactli,68,145.0
+Hatap,75,192.0
+Xakku,66,155.0
+Madame Macabre,67,125.0
+Supramor,72,175.0
+Gnome ,38,85.0
+Replica Model X-3,78,400.0
+Ulysses Abboud,66,80.0
+Otto Kronsteig,94,516.0
+Kthara,71,100.0
+Jaard,82,378.0
+Eye Killers,96,700.0
+Harek Korgon,180,1300.0
+Berserker ,86,425.0
+Ira Gross,69,145.0
+Ral Dorn,68,180.0
+Stygorr,88,280.0
+William McLaughlin,75,195.0
+William Scott,74,240.0
+Blackthorn,72,190.0
+Webwing,97,145.0
+Gregori Larionov,72,190.0
+Lucas Jackson,62,130.0
+Taranith Gestal,228,31.0
+Alden Maas,70,160.0
+Neil Donaldson,69,165.0
+Peter Brand,70,170.0
+Elspeth Cromwell,69,136.0
+Holly-Ann Ember,50,65.0
+Hungry,71,100.0
+Blow-Hard,60,220.0
+Cybelle,65,129.0
+Joseph Calhoun,67,154.0
+Sandy Vincent,67,125.0
+Solomon Prey,70,210.0
+Anomaly ,71,100.0
+Dagny Forrester,69,140.0
+Big,42,98.0
+Sumner Beckwith,66,192.0
+Wild One,72,195.0
+Ariel Tremmore,69,130.0
+Carl Blake,74,212.0
+Eric Kleinstock,74,190.0
+"Gary Wilton, Jr.",67,130.0
+David Christopher Bank,67,140.0
+KhLu0398G,71,100.0
+Willie Walkaway,68,159.0
+Kimora,72,220.0
+Victor Ludwig,66,135.0
+American Samurai,77,276.0
+Doombringer,71,175.0
+Saint Cyrus Leviticus,72,180.0
+Cache,72,200.0
+Delphos,69,137.0
+Fletcher Traynor,71,100.0
+Mzungu,69,145.0
+Zuhn,71,175.0
+Mickey Tork,81,280.0
+Smoke,71,175.0
+Dogma,71,175.0
+Jack Mead,72,165.0
+Neosaurus,54,82.0
+Staak,72,140.0
+Supreme Pontiff,71,175.0
+Daniel Axum,81,403.0
+Edward Brecker,68,160.0
+Daniel Jermain,108,240.0
+Doug Taggert,68,145.0
+Halphas,71,0.44
+Martha Gomes,66,130.0
+Vegas,72,173.0
+Extirpia,90,1225.0
+First Fallen,71,100.0
+Philadelphia Filly,71,142.0
+Provost,65,143.0
+Pusher Man,73,168.0
+Deimne,75,455.0
+Draconis,73,185.0
+Ouranos,71,100.0
+A. G. Bell,67,188.0
+Bonham,80,353.0
+Comte de Saint Germain,72,195.0
+Jimmy Everett,55,74.0
+Michael Farrel,72,180.0
+Sky-Walker,68,120.0
+Xraven,72,235.0
+Mantor,74,190.0
+Texas Kid,69,160.0
+Tigerman,83,180.0
+Ambrose Meek,71,110.0
+Modebl,132,650.0
+Son of Satan ,75,520.0
+Thoth,76,280.0
+Liso Trago,69,181.0
+Mogol,96,759.0
+Spymaster ,72,195.0
+Elianne Turac,71,150.0
+Inanna,68,290.0
+Nicholas Bordia,71,200.0
+Father Darklyte,69,152.0
+Sky-Walker ,68,120.0
+Tapping Tommy,73,170.0
+Braggadoom,71,100.0
+Darren Cross,96,400.0
+Joshua Farkas,75,200.0
+Solon Stabilizer,108,325.0
+Fear ,84,480.0
+Jack Hazzard,72,220.0
+Jacob Fury ,70,185.0
+Sundance,66,145.0
+Umbra,71,175.0
+Edward Buckman,73,165.0
+Phineous Umbridge,60,155.0
+Saint Elmo,77,425.0
+Hunger ,71,100.0
+Moira Brandon,60,98.0
+Nyko Halfghanaghan,52,94.0
+Tribune ,75,210.0
+Armorer,77,285.0
+Stephen Loss,68,170.0
+Verdelet,75,180.0
+Alistaire Armstrong,72,149.0
+Olivier Stoker,74,178.0
+Stigmata,62,124.0
+Iconoclast,73,225.0
+Oyakata,72,205.0
+Duncan Vess,69,165.0
+Dirty Wolff,90,1640.0
+Khafre,66,160.0
+Nelson Frank,70,161.0
+Harrison Stavrou,73,164.0
+Harvester,71,100.0
+Papa Hagg,44,45.0
+Avery Connor,62,101.0
+Fader,36,45.0
+Imdugud,240,674.0
+Darick Gallhager,70,158.0
+Haokah,80,430.0
+Extermina,90,1225.0
+Setanta,71,450.0
+Benjamin Rabin,68,178.0
+Radu ,82,210.0
+Astro,66,130.0
+Cletus Hondo,70,175.0
+Hunk Hondo,70,175.0
+Klaus Kruger,72,190.0
+Black Brother ,73,181.0
+Lord Ruthven,69,160.0
+Barry Windom,74,210.0
+Roger Stephenson,75,225.0
+Rupert Kemp,72,185.0
+Pinky Fusser,48,80.0
+Vincent Martinelli,71,180.0
+Thibodaux Boudreaux,74,240.0
+Michael Keane,71,175.0
+Commuter ,72,170.0
+Ilse Pterigil,56,87.0
+Elyse Nelson,60,125.0
+Varney ,68,154.0

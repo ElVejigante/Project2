@@ -1,0 +1,382 @@
+.one {
+            
+  border-width: 8px;
+  width: 200px;
+  background-color: rgb(8, 8, 8);
+  vertical-align: 100px;
+  opacity: 80%;
+  left: 10px;
+  float:left;
+  
+}
+
+.image{
+background-image: url('https://static0.srcdn.com/wordpress/wp-content/uploads/2021/04/Spider-Man-Mary-Jane-Comic-Art-Header.jpg');
+
+background-size: 20%;
+background-repeat: no-repeat;
+}
+
+.p1
+{
+color: black;
+font-weight: bold;
+text-align: center;
+background-color: rgb(253, 253, 253);
+}
+
+
+.navbar a:hover {
+background-color: rgb(168, 108, 106);
+color: rgb(243, 236, 236);
+}
+
+.active {
+text-decoration: underline;
+}
+
+.navbar a.right {
+  float: left;
+  margin-left: auto;
+}
+
+.navbar-brand{
+ 
+  padding-bottom: 5%;
+  padding-top: 5%;
+  }
+.opa
+{
+color: rgb(14, 13, 13);
+font-size: 40px;
+}
+
+.colorp
+{
+color: rgb(253, 19, 19);
+}
+
+.navbac
+{
+background-color: rgb(250, 225, 225);
+opacity: 70%;
+border: 10px;
+border-radius: 100px;
+box-shadow: rgb(168, 108, 106);
+
+}
+ 
+.axis .domain {
+  display: none;
+}
+.timestamp{
+  fill: black;
+}
+body{
+  font-family: "Helvetica Neue";
+  font-family: Georgia, serif;
+  margin: 0;
+  background: #fff;
+}
+.main{
+  text-align: center;
+}
+.breadcrumbs {
+  font-size: small;
+  text-align: center;
+  width: 100%;
+  padding: 5px 0;
+  margin: 0;
+  font-style: italic;
+  border-bottom: solid #eee 1px;
+  color: #000;
+}
+
+.breadcrumbs a {
+  color: #669;
+}
+
+.breadcrumbs a:hover {
+  color: #000;
+}
+
+.logo {
+  width: calc(100% - 2em);
+  max-width: calc(500px - 2em);
+  margin: 1em auto;
+  padding: 1em;
+}
+
+iframe{
+  border: none;
+  overflow: hidden;
+}
+.image{
+  margin: 0 auto;
+  border: 1px solid #EEE;
+  background-position: top left;
+  background-repeat: no-repeat;
+  width: calc(100% - 2em);
+  -webkit-overflow-scrolling: touch;
+  overflow-y: scroll;
+}
+.wide-11{
+  max-width: calc(1100px);
+}
+.wide-10{
+  max-width: calc(1000px);
+}
+.wide-9{
+  max-width: calc(900px);
+}
+.wide-8{
+  max-width: calc(800px);
+}
+.wide-7{
+  max-width: calc(700px);
+}
+.wide-6{
+  max-width: calc(600px);
+}
+
+.short{
+  height: 25vh;
+}
+.medium{
+  height: 50vh;
+}
+.tall{
+  height: 75vh;
+}
+
+
+p.caption {
+  text-align: center;
+  font-size: small;
+  font-style: italic;
+  width: 400px;
+  margin: 0 auto;
+}
+
+
+
+p, li {
+  line-height: 1.5em;
+}
+
+h1, h2, h3 {
+  font-weight: 300;
+}
+
+h1 {
+  font-size: 2.5em;
+}
+
+canvas {
+  cursor: move;
+}
+
+select{
+  margin-left: 20px;
+}
+
+.wrapper {
+  width: calc(100% - 2em);
+  max-width: calc(600px - 2em);
+  margin: 1em auto;
+  text-align: left;
+}
+
+blockquote {
+  border-left: solid #eee 5px;
+  padding: 0 15px;
+  margin: 0;
+}
+
+
+#list{
+  margin: 0 30px 30px;
+  color: #999;
+  font-weight: 400;
+  line-height: 1.4em;
+  font-size: 0.9em;
+}
+#list a{
+  text-decoration: none;
+}
+
+      
+.matrix .background {
+  fill: #eee;
+}
+.matrix line {
+  stroke: #fff;
+}
+.matrix text{
+  font-size: 1.0em;
+}
+.matrix text.active {
+  fill: red;
+}
+.matrix {
+  padding-left: 120px;
+  font-family: "Helvetica Neue";
+}
+.matrix .cell{
+  fill: #ccc;
+}
+
+/* treemap */
+.treemap rect {
+  fill: none;
+  pointer-events: all;
+}
+.treemap pre {
+  font-size: 18px;
+}
+.treemap line {
+  stroke: #000;
+  stroke-width: 1.5px;
+}
+.treemap .string, .treemap .regexp {
+  color: #f39;
+}
+.treemap .keyword {
+  color: #00c;
+}
+.treemap .comment {
+  color: #777;
+  font-style: oblique;
+}
+.treemap .number {
+  color: #369;
+}
+.treemap .class, .treemap .special {
+  color: #1181B8;
+}
+.treemap .hint {
+  position: absolute;
+  right: 0;
+  width: 1280px;
+  font-size: 12px;
+  color: #999;
+}
+.treemap .chart {
+  display: block;
+  margin: auto;
+  margin-top: 40px;
+}
+.treemap text {
+  font-size: 11px;
+}
+.treemap rect {
+  fill: none;
+}
+#treemap{
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin: auto;
+  position: relative;
+}
+.treemap .node {
+  border: solid 1px white;
+  font: 10px sans-serif;
+  line-height: 12px;
+  overflow: hidden;
+  position: absolute;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content:center;
+  align-content:center;
+  flex-direction:column;
+}
+
+/* force-directed */
+.links line {
+  stroke: #999;
+  stroke-opacity: 0.6;
+}
+.links path {
+  stroke: #999;
+  stroke-opacity: 0.6;
+  fill: none;
+}
+.nodes circle {
+  stroke: #fff;
+  stroke-width: 1.5px;
+}
+.force text {
+  font-family: sans-serif;
+  font-size: 14pxpx;
+}
+.selected {
+  stroke-width: 10px;
+  stroke: #00F!important;
+}
+
+/* force-directed circle */
+.link {
+  fill: none;
+}
+.link path {
+  stroke: #999;
+  stroke-opacity: 0.6;
+}
+.node text {
+  font: 10px sans-serif;
+}
+
+
+/* geographic map */
+#geoMap {
+  width: 600px;
+  margin: 0 auto;
+}
+
+.foreground {
+  fill: none;
+  stroke: #000;
+  stroke-width: 1px;
+  pointer-events: all;
+  cursor: -webkit-grab;
+  cursor: -moz-grab;
+}
+
+.foreground.zooming {
+  cursor: -webkit-grabbing;
+  cursor: -moz-grabbing;
+}
+
+.graticule {
+  fill: none;
+  stroke: #636B62;
+  stroke-width: .5px;
+  stroke-dasharray: 2,2;
+}
+
+.land {
+  fill: #69D2E7;
+  stroke: none;
+}
+
+.mesh {
+  stroke: #50576A;
+  stroke-width: .5px;
+  fill: none;
+}
+
+.point {
+  fill: #f00;
+}
+
+label {
+  font-family: "Helvetica Neue";
+  margin-right: 10px;
+  font-size: 13px;
+}
+
+
+.hidden{
+  display: none;
+}
