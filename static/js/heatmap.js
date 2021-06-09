@@ -13,7 +13,7 @@ L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_toke
 }).addTo(myMap);
 
 //var url = "https://data.sfgov.org/resource/cuks-n6tp.json?$limit=10000";
-var static = "../data/output/Cleaned_Marvel_Dating_American_v3.json";
+var static = "data/output/Cleaned_Marvel_Dating_American_v3.json";
 
 d3.json(static).then(function(response) {
 
