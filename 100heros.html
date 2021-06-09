@@ -9,7 +9,7 @@
  
    <link rel="stylesheet" href="https://bootswatch.com/4/lux/bootstrap.min.css">
    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-   <link rel=”stylesheet” href=”https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity=”sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T” crossorigin=”anonymous”>
+   <link rel=”stylesheet” href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity=”sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T” crossorigin=”anonymous”>
    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
    <script src="https://d3js.org/d3.v4.js"></script>          
@@ -52,11 +52,16 @@
     </div>
     
   </nav>
-
 </head>
-  
 
-  <body>
+
+
+
+<h5 style="color:blue;">
+  A visualization of the top 100 (by comic appearance) Marvel comic book character co-occurrences (two characters showing up in the same comic)
+</h5>
+
+  
       
           </div>
       </div>
@@ -65,7 +70,7 @@
       <input type="radio" name="data" value="series"> <label>Series</label>
       <input type="radio" name="data" value="stories"> <label>Stories</label>
     </p>
-
+    
     <p>
       <select id="order">
         <option value="name">Order by Name</option>
@@ -73,9 +78,7 @@
         <!-- <option value="group">Order by Cluster</option> -->
       </select>
     </p>
-    <h5 style="color:blue;">
-      A visualization of the top 100 (by comic appearance) Marvel comic book character co-occurrences (two characters showing up in the same comic)
-    </h5>
+  
     <svg class="matrix"></svg>
 
     <script>
@@ -272,7 +275,7 @@ function ready(error, d) {
     order('count');
   }
 
-  // build the first visualization
+ 
   updateData(config.dataset);
 
   d3.selectAll("input").on("change", function() {
