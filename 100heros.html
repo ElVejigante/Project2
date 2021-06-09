@@ -54,17 +54,11 @@
   </nav>
 </head>
 
-
-
-
 <h5 style="color:blue;">
   A visualization of the top 100 (by comic appearance) Marvel comic book character co-occurrences (two characters showing up in the same comic)
 </h5>
 
-  
       
-          </div>
-      </div>
     <p style="margin-left: 15px;" id="dataset">
       <input type="radio" name="data" value="comics" checked> <label>Comics</label>
       <input type="radio" name="data" value="series"> <label>Series</label>
@@ -118,7 +112,7 @@ var config = {
 }
 
 d3.queue()
-  .defer(d3.json, '../data/matrixObject-100-min.json')
+  .defer(d3.json, 'data/matrixObject-100-min.json')
   .await(ready);
 
 function ready(error, d) {
